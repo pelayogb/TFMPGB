@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_VIECO_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0001919631595632687,
+  "test_mae": 0.0937793171579472,
+  "test_rmse": 0.11023664514323722,
+  "cv_mean_r2": -0.000296424968433584,
+  "cv_std_r2": 0.0002667991159335395,
+  "n_train": 40714,
+  "n_test": 4524,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:12.816742",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\scaler_clexitlevel.pkl"
+}

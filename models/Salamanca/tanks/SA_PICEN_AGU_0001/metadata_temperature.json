@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_PICEN_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0010362784005160108,
+  "test_mae": 11.34716499543814,
+  "test_rmse": 13.163046655548548,
+  "cv_mean_r2": -0.0005549091032303721,
+  "cv_std_r2": 0.000779967767139567,
+  "n_train": 7335,
+  "n_test": 816,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:42.145492",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\scaler_temperature.pkl"
+}

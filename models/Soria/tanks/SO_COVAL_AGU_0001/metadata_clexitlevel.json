@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_COVAL_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.23697391881488206,
+  "test_mae": 0.15543891963877954,
+  "test_rmse": 0.2261367066164178,
+  "cv_mean_r2": 0.24900874820181781,
+  "cv_std_r2": 0.014298842318307893,
+  "n_train": 23697,
+  "n_test": 2634,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:53.372063",
+  "model_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\gradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

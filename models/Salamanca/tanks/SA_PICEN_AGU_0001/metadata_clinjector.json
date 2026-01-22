@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_PICEN_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0016990740075129018,
+  "test_mae": 0.05937446481192998,
+  "test_rmse": 0.06967245722899887,
+  "cv_mean_r2": -0.004483627406267132,
+  "cv_std_r2": 0.001040592207271613,
+  "n_train": 7335,
+  "n_test": 816,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:44.077422",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\gradientboosting_clinjector.pkl",
+  "scaler_path": null
+}

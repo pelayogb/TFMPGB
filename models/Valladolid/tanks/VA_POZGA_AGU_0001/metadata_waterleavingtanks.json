@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9829967420275857,
+  "test_mae": 476.36573883826645,
+  "test_rmse": 810.6307391652398,
+  "cv_mean_r2": 0.9834133171433926,
+  "cv_std_r2": 0.0004724684667688007,
+  "n_train": 7365,
+  "n_test": 819,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:54.739264",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_NAVBU_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.001129897144961367,
+  "test_mae": 0.014437232735900847,
+  "test_rmse": 0.04796889056402741,
+  "cv_mean_r2": -0.0020768805785526647,
+  "cv_std_r2": 0.002380941021478681,
+  "n_train": 7909,
+  "n_test": 879,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:03.815407",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\gradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CERVA_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0853558485621424,
+  "test_mae": 0.051746040222619936,
+  "test_rmse": 0.06130611121441841,
+  "cv_mean_r2": 0.08856873233134084,
+  "cv_std_r2": 0.0015910266070084788,
+  "n_train": 950079,
+  "n_test": 105565,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:15:32.604729",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CERVA_AGU_0001\\gradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

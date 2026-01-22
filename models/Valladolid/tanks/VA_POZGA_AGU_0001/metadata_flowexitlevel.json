@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0007804372970314777,
+  "test_mae": 2.8228432616071446,
+  "test_rmse": 3.5201952230061884,
+  "cv_mean_r2": -0.00304283993718113,
+  "cv_std_r2": 0.001769611286873085,
+  "n_train": 7365,
+  "n_test": 819,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:53.541193",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\scaler_flowexitlevel.pkl"
+}

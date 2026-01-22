@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001593771586657411,
+  "test_mae": 1.247486932908273,
+  "test_rmse": 1.4686207495658625,
+  "cv_mean_r2": -0.0030959829574130904,
+  "cv_std_r2": 0.0013372908631560717,
+  "n_train": 7353,
+  "n_test": 818,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:42:02.777931",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\scaler_pressurelevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Valladolid",
+  "tank_id": null,
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00021508756504884374,
+  "test_mae": 140.38110243594429,
+  "test_rmse": 171.73126911570137,
+  "cv_mean_r2": -0.00046456265773491267,
+  "cv_std_r2": 0.00032263077159119645,
+  "n_train": 29431,
+  "n_test": 3271,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:58:35.727342",
+  "model_path": "..\\models\\Valladolid\\province\\linearregression_waterturbidityexitlevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\province\\scaler_waterturbidityexitlevel.pkl"
+}

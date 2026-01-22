@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MASUE_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0007828691653173347,
+  "test_mae": 106.17903659806056,
+  "test_rmse": 123.5709101907594,
+  "cv_mean_r2": -0.0019493225753067999,
+  "cv_std_r2": 0.0020147998440969415,
+  "n_train": 7023,
+  "n_test": 781,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:08.695711",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0001\\scaler_watertanklevel.pkl"
+}

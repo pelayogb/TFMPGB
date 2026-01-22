@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_REVCA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -5.248839725302545e-06,
+  "test_mae": 2.8199786494544408,
+  "test_rmse": 3.476834490828668,
+  "cv_mean_r2": -4.474557454514638e-05,
+  "cv_std_r2": 1.5652826570388095e-05,
+  "n_train": 884355,
+  "n_test": 98262,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:33:26.958854",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_REVCA_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

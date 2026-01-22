@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -9.102322901566318e-05,
+  "test_mae": 0.05953496193806225,
+  "test_rmse": 0.07028740584680254,
+  "cv_mean_r2": -3.0605150745222073e-05,
+  "cv_std_r2": 2.3478147477391747e-05,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:58:21.794160",
+  "model_path": "..\\models\\Soria\\province\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Soria\\province\\scaler_clinjector.pkl"
+}

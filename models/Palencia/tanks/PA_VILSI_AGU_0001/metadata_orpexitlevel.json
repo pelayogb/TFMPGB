@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_VILSI_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.005307210696307907,
+  "test_mae": 19.830935661085995,
+  "test_rmse": 24.10442804872943,
+  "cv_mean_r2": -0.0014979040422765876,
+  "cv_std_r2": 0.0036670942067793663,
+  "n_train": 3798,
+  "n_test": 423,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:29.291840",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_VILSI_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_VILSI_AGU_0001\\scaler_orpexitlevel.pkl"
+}

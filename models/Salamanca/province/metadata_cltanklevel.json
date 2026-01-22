@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 2.30290853645565e-05,
+  "test_mae": 0.05182904559150519,
+  "test_rmse": 0.06080472753242612,
+  "cv_mean_r2": -0.00010709753639166486,
+  "cv_std_r2": 1.832192751550196e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:56:56.481573",
+  "model_path": "..\\models\\Salamanca\\province\\gradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

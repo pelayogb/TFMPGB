@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_FROMI_AGU_0002",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0013788744893030724,
+  "test_mae": 105.3121776776541,
+  "test_rmse": 122.44638697404994,
+  "cv_mean_r2": -0.00013563612178710827,
+  "cv_std_r2": 0.0001391877610505757,
+  "n_train": 70985,
+  "n_test": 7888,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:17:22.192698",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0002\\gradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

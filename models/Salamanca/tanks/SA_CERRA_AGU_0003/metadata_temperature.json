@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CERRA_AGU_0003",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.006892170875135939,
+  "test_mae": 11.668821727766693,
+  "test_rmse": 13.49174176524321,
+  "cv_mean_r2": -0.004367372313075646,
+  "cv_std_r2": 0.005228389640317913,
+  "n_train": 4830,
+  "n_test": 537,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:32.475136",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\gradientboosting_temperature.pkl",
+  "scaler_path": null
+}

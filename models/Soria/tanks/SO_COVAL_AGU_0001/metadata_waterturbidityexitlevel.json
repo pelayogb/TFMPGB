@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_COVAL_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 2.948636684996231e-05,
+  "test_mae": 142.49429570491165,
+  "test_rmse": 176.01574960512013,
+  "cv_mean_r2": 3.0067236107966798e-05,
+  "cv_std_r2": 8.903688992861736e-05,
+  "n_train": 23697,
+  "n_test": 2634,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:54.510317",
+  "model_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_VILVE_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0024617472661658812,
+  "test_mae": 2.7976810553985025,
+  "test_rmse": 3.4318289756034384,
+  "cv_mean_r2": -0.0011019619871725172,
+  "cv_std_r2": 0.0008289344815459112,
+  "n_train": 8519,
+  "n_test": 947,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:39:59.766087",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_VILVE_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_VILVE_AGU_0001\\scaler_flowexitlevel.pkl"
+}

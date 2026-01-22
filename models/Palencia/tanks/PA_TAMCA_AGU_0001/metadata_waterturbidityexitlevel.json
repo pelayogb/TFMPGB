@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_TAMCA_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 8.303836715461976e-06,
+  "test_mae": 139.8626942370429,
+  "test_rmse": 172.1702438231722,
+  "cv_mean_r2": -0.0001921826195898646,
+  "cv_std_r2": 0.0001055003338539593,
+  "n_train": 200983,
+  "n_test": 22332,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:35:41.935815",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\histgradientboosting_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

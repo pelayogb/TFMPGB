@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -5.8421942533026794e-05,
+  "test_mae": 11.39612932123276,
+  "test_rmse": 13.169688375417833,
+  "cv_mean_r2": -0.00016643096964807924,
+  "cv_std_r2": 9.69196888735927e-05,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T09:58:58.438291",
+  "model_path": "..\\models\\Burgos\\province\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Burgos\\province\\scaler_temperature.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANTO_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9455707841792071,
+  "test_mae": 692.6177063849293,
+  "test_rmse": 1272.0014883005185,
+  "cv_mean_r2": 0.9437304603233713,
+  "cv_std_r2": 0.0012573189233663384,
+  "n_train": 205876,
+  "n_test": 22876,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:35:25.635570",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\randomforest_waterleavingtanks.pkl",
+  "scaler_path": null
+}

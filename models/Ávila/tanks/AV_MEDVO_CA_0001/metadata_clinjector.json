@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "\u00c1vila",
+  "tank_id": "AV_MEDVO_CA_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 8.583351282287488e-06,
+  "test_mae": 0.05943975704401908,
+  "test_rmse": 0.07017001483693215,
+  "cv_mean_r2": 5.228767194398465e-06,
+  "cv_std_r2": 2.4756451480421772e-05,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:45:06.209449",
+  "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\scaler_clinjector.pkl"
+}

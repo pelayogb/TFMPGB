@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Palencia",
+  "tank_id": null,
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 6.784403372428471e-08,
+  "test_mae": 1.3251535973432986,
+  "test_rmse": 1.537057468631366,
+  "cv_mean_r2": -3.6093820509730533e-06,
+  "cv_std_r2": 1.2835436776973688e-06,
+  "n_train": 13166902,
+  "n_test": 1462990,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T10:58:21.276224",
+  "model_path": "..\\models\\Palencia\\province\\histgradientboosting_pressurelevel.pkl",
+  "scaler_path": null
+}

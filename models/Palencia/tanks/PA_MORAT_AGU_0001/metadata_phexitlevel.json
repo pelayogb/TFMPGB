@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_MORAT_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.9049165924878153e-05,
+  "test_mae": 0.4988575203551612,
+  "test_rmse": 0.6054875793589245,
+  "cv_mean_r2": -0.00014547531811315295,
+  "cv_std_r2": 0.0002848916816433783,
+  "n_train": 119539,
+  "n_test": 13283,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T10:50:02.965156",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0001\\histgradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.000437292873250561,
+  "test_mae": 0.09706602355650946,
+  "test_rmse": 0.11326903824266885,
+  "cv_mean_r2": -0.0011365625456503992,
+  "cv_std_r2": 0.0003856193878271793,
+  "n_train": 7365,
+  "n_test": 819,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:51.241109",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\scaler_clexitlevel.pkl"
+}

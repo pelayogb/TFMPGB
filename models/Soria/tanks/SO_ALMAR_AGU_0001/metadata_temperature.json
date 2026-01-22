@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_ALMAR_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -6.556406507041146e-05,
+  "test_mae": 11.44331005022814,
+  "test_rmse": 13.170351421535946,
+  "cv_mean_r2": -7.525147708116186e-05,
+  "cv_std_r2": 0.0004311943375024941,
+  "n_train": 23596,
+  "n_test": 2622,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:09.413053",
+  "model_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\scaler_temperature.pkl"
+}

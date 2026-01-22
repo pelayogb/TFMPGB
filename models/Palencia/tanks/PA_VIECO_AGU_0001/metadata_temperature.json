@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_VIECO_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0003675150288515727,
+  "test_mae": 11.320060717899151,
+  "test_rmse": 13.124099508736627,
+  "cv_mean_r2": -0.00025421119915975955,
+  "cv_std_r2": 0.00031381103151089296,
+  "n_train": 40714,
+  "n_test": 4524,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:15.152548",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\scaler_temperature.pkl"
+}

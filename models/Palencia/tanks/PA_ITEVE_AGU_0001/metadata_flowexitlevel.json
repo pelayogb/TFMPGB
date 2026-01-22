@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_ITEVE_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 2.982495935888174e-06,
+  "test_mae": 2.819549377804376,
+  "test_rmse": 3.4847859726641923,
+  "cv_mean_r2": -1.4202622673309406e-05,
+  "cv_std_r2": 3.4166429128060186e-06,
+  "n_train": 2140491,
+  "n_test": 237833,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T17:29:05.332078",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

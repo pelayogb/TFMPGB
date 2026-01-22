@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ROHVI_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001281050040327525,
+  "test_mae": 0.06051024228275041,
+  "test_rmse": 0.07154819739989249,
+  "cv_mean_r2": -0.0015719451700463515,
+  "cv_std_r2": 0.0013196482830997347,
+  "n_train": 8230,
+  "n_test": 915,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:54.285905",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\scaler_clinjector.pkl"
+}

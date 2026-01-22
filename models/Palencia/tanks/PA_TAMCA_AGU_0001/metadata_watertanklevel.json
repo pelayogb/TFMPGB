@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_TAMCA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -3.2002816249487864e-05,
+  "test_mae": 106.11628363664319,
+  "test_rmse": 123.317519441555,
+  "cv_mean_r2": -3.2990748134476e-05,
+  "cv_std_r2": 2.750128370053562e-05,
+  "n_train": 200983,
+  "n_test": 22332,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:35:30.113248",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\scaler_watertanklevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0007701429172849439,
+  "test_mae": 0.05983048673197266,
+  "test_rmse": 0.07043100134482119,
+  "cv_mean_r2": -0.005270040375653729,
+  "cv_std_r2": 0.002000136701861851,
+  "n_train": 7353,
+  "n_test": 818,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:42:04.403542",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\randomforest_clinjector.pkl",
+  "scaler_path": null
+}

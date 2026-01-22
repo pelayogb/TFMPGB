@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.03766837765005371,
+  "test_mae": 2.566699736568681,
+  "test_rmse": 3.277372931447952,
+  "cv_mean_r2": 0.0367082436739812,
+  "cv_std_r2": 0.001505965552032851,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:57:19.840496",
+  "model_path": "..\\models\\Soria\\province\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ROLLA_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.000898314991545579,
+  "test_mae": 1.3235122299504187,
+  "test_rmse": 1.5391672080520018,
+  "cv_mean_r2": -0.00211027113545037,
+  "cv_std_r2": 0.0005380232018366346,
+  "n_train": 9372,
+  "n_test": 1042,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:57.848772",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ROLLA_AGU_0001\\randomforest_pressurelevel.pkl",
+  "scaler_path": null
+}

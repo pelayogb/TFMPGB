@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ROHVI_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0053999980091277155,
+  "test_mae": 11.135112500644423,
+  "test_rmse": 12.974056766095751,
+  "cv_mean_r2": -0.00042612435736488763,
+  "cv_std_r2": 0.0012945136939239716,
+  "n_train": 8230,
+  "n_test": 915,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:52.464827",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\scaler_temperature.pkl"
+}

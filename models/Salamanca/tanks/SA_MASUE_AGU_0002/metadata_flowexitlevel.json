@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MASUE_AGU_0002",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001512993663812967,
+  "test_mae": 2.8277270659832054,
+  "test_rmse": 3.3974000495518992,
+  "cv_mean_r2": -0.003368058683353059,
+  "cv_std_r2": 0.001883593572409543,
+  "n_train": 7332,
+  "n_test": 815,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:16.027480",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0002\\randomforest_flowexitlevel.pkl",
+  "scaler_path": null
+}

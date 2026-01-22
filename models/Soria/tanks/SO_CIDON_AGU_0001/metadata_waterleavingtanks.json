@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CIDON_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.8542427461113482,
+  "test_mae": 3422.9580272194426,
+  "test_rmse": 19063.846488117437,
+  "cv_mean_r2": 0.900447306108666,
+  "cv_std_r2": 0.00873801161198981,
+  "n_train": 23625,
+  "n_test": 2626,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:51.328954",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

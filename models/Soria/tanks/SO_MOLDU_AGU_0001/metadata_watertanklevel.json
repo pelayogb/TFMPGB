@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.7006951648785231,
+  "test_mae": 0.2221638094320292,
+  "test_rmse": 0.46963304554312957,
+  "cv_mean_r2": 0.7110983429013239,
+  "cv_std_r2": 0.03360316525847104,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:08.469601",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

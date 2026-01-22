@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_HINDU_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.007393627922364754,
+  "test_mae": 18.846698782231655,
+  "test_rmse": 22.798662178742973,
+  "cv_mean_r2": -0.005078928056163079,
+  "cv_std_r2": 0.006178975589755608,
+  "n_train": 2888,
+  "n_test": 321,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:00.620174",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\scaler_orpexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_NAVBU_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00044602392453219064,
+  "test_mae": 0.0950626021475701,
+  "test_rmse": 0.11168852866685654,
+  "cv_mean_r2": -0.0013307452242835138,
+  "cv_std_r2": 0.0016068076335595696,
+  "n_train": 7909,
+  "n_test": 879,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:01.510303",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\gradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

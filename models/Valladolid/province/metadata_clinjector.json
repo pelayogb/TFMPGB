@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Valladolid",
+  "tank_id": null,
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0002927227273854527,
+  "test_mae": 0.059904352659804184,
+  "test_rmse": 0.07073380660538697,
+  "cv_mean_r2": -0.0007170671734736178,
+  "cv_std_r2": 0.0003355961104420048,
+  "n_train": 29431,
+  "n_test": 3271,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:58:41.690385",
+  "model_path": "..\\models\\Valladolid\\province\\histgradientboosting_clinjector.pkl",
+  "scaler_path": null
+}

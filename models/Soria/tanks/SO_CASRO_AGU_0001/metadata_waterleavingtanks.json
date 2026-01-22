@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CASRO_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9522508901267454,
+  "test_mae": 221.4895625460161,
+  "test_rmse": 902.1011945903666,
+  "cv_mean_r2": 0.9688075446124975,
+  "cv_std_r2": 0.002565624756543637,
+  "n_train": 15977,
+  "n_test": 1776,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:43.217905",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CASRO_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

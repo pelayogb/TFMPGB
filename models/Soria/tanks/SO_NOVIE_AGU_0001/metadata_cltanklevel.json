@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_NOVIE_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.0,
+  "test_mae": 0.0,
+  "test_rmse": 0.0,
+  "cv_mean_r2": 1.0,
+  "cv_std_r2": 0.0,
+  "n_train": 23623,
+  "n_test": 2625,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:34.392022",
+  "model_path": "..\\models\\Soria\\tanks\\SO_NOVIE_AGU_0001\\linearregression_cltanklevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_NOVIE_AGU_0001\\scaler_cltanklevel.pkl"
+}

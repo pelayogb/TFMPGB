@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CALTO_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0004579877180616032,
+  "test_mae": 11.274874481340127,
+  "test_rmse": 13.051575274473604,
+  "cv_mean_r2": -0.0003267989322373488,
+  "cv_std_r2": 7.453179527986348e-05,
+  "n_train": 21751,
+  "n_test": 2417,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:25.323323",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\scaler_temperature.pkl"
+}

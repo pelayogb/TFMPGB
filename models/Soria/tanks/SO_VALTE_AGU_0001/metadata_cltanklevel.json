@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_VALTE_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.09721254299650539,
+  "test_mae": 0.05399862865968543,
+  "test_rmse": 0.06337723488947705,
+  "cv_mean_r2": 0.09497730560004851,
+  "cv_std_r2": 0.01350806411598857,
+  "n_train": 21057,
+  "n_test": 2340,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:48.391210",
+  "model_path": "..\\models\\Soria\\tanks\\SO_VALTE_AGU_0001\\histgradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

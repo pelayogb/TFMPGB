@@ -1,0 +1,42 @@
+{
+  "province": "Burgos",
+  "n_clusters": 3,
+  "n_tanks": 6,
+  "features_used": [
+    "watertanklevel",
+    "clexitlevel",
+    "phexitlevel",
+    "temperature",
+    "pressurelevel",
+    "flowexitlevel",
+    "orpexitlevel"
+  ],
+  "inertia": 32.71906251290385,
+  "cluster_stats": {
+    "cluster_0": {
+      "n_tanks": 4,
+      "tank_ids": [
+        "BU_FRERT_AGU_0001",
+        "BU_FRIAS_AGU_0001",
+        "BU_SANOB_AGU_0001",
+        "BU_SAPGA_AGU_0001"
+      ]
+    },
+    "cluster_1": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "BU_NAVBU_AGU_0001"
+      ]
+    },
+    "cluster_2": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "BU_BARON_AGU_0001"
+      ]
+    }
+  },
+  "trained_on": "2025-12-10T11:45:28.654980",
+  "kmeans_path": "..\\models\\Burgos\\clustering\\kmeans_model.pkl",
+  "scaler_path": "..\\models\\Burgos\\clustering\\cluster_scaler.pkl",
+  "pca_path": "..\\models\\Burgos\\clustering\\pca_model.pkl"
+}

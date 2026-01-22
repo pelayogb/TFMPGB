@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.944727057456852e-05,
+  "test_mae": 11.357859064812175,
+  "test_rmse": 13.14519145768783,
+  "cv_mean_r2": -1.055287971651886e-05,
+  "cv_std_r2": 1.731831086017143e-05,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:57:47.988393",
+  "model_path": "..\\models\\Soria\\province\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Soria\\province\\scaler_temperature.pkl"
+}

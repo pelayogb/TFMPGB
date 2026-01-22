@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CIDON_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00019514144829024804,
+  "test_mae": 11.151244106175538,
+  "test_rmse": 13.011238398611559,
+  "cv_mean_r2": -0.0021447370389760857,
+  "cv_std_r2": 0.000823538373459955,
+  "n_train": 23625,
+  "n_test": 2626,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:47.567229",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

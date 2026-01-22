@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.002865291929855518,
+  "test_mae": 1.350720941375112,
+  "test_rmse": 1.5638375569757073,
+  "cv_mean_r2": -0.0017148720297055497,
+  "cv_std_r2": 0.002335174968046761,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:10.465270",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\gradientboosting_pressurelevel.pkl",
+  "scaler_path": null
+}

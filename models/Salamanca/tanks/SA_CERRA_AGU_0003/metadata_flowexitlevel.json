@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CERRA_AGU_0003",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.005976103682098888,
+  "test_mae": 2.7073715906492306,
+  "test_rmse": 3.364514885059493,
+  "cv_mean_r2": -0.0011441247978522862,
+  "cv_std_r2": 0.0014283047409152218,
+  "n_train": 4830,
+  "n_test": 537,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:37:33.482161",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\scaler_flowexitlevel.pkl"
+}

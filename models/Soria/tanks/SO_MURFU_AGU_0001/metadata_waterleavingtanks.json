@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MURFU_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9992581846690554,
+  "test_mae": 551.7439929777545,
+  "test_rmse": 668.0051200687435,
+  "cv_mean_r2": 0.9992699848044069,
+  "cv_std_r2": 8.589399787140835e-06,
+  "n_train": 22536,
+  "n_test": 2504,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:28.482000",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

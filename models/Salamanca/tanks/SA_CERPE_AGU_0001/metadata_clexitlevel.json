@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CERPE_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0009801376096927328,
+  "test_mae": 0.09341767114893999,
+  "test_rmse": 0.11001008919941337,
+  "cv_mean_r2": -0.0045668051768811505,
+  "cv_std_r2": 0.003163635892136416,
+  "n_train": 7596,
+  "n_test": 845,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:22.371589",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\gradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

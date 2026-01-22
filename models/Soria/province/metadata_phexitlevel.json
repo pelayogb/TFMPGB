@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -6.412061709504258e-05,
+  "test_mae": 0.5002014725475122,
+  "test_rmse": 0.6057491835344387,
+  "cv_mean_r2": -6.804278009608921e-06,
+  "cv_std_r2": 3.982928569465114e-05,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:57:36.104446",
+  "model_path": "..\\models\\Soria\\province\\linearregression_phexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\province\\scaler_phexitlevel.pkl"
+}

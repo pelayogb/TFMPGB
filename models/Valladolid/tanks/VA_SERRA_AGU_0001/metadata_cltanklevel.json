@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0012850784971989437,
+  "test_mae": 0.05133772541085734,
+  "test_rmse": 0.06069573519064503,
+  "cv_mean_r2": -0.0034927773286224538,
+  "cv_std_r2": 0.0009178387491954888,
+  "n_train": 7353,
+  "n_test": 818,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:42:03.949271",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\histgradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_FROMI_AGU_0002",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.0829506530862787e-05,
+  "test_mae": 2.811597160126913,
+  "test_rmse": 3.473234452729899,
+  "cv_mean_r2": -9.561446125552208e-05,
+  "cv_std_r2": 5.543470527666201e-05,
+  "n_train": 70985,
+  "n_test": 7888,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:17:26.355367",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0002\\gradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

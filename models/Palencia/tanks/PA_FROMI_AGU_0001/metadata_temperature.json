@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_FROMI_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -4.985780834187992e-06,
+  "test_mae": 11.34621303823008,
+  "test_rmse": 13.153325617211504,
+  "cv_mean_r2": -0.00014196996911524095,
+  "cv_std_r2": 0.00011597445917897021,
+  "n_train": 259123,
+  "n_test": 28792,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:16:50.015702",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0001\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

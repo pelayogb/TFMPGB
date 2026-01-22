@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_ITEVE_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 8.346874671216753e-06,
+  "test_mae": 11.385375025856113,
+  "test_rmse": 13.184844316545979,
+  "cv_mean_r2": -1.7929283589168676e-05,
+  "cv_std_r2": 1.4356185751633968e-05,
+  "n_train": 2140491,
+  "n_test": 237833,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T13:17:24.790673",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

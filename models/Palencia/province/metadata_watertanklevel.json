@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Palencia",
+  "tank_id": null,
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.4493922497749168e-06,
+  "test_mae": 106.36939851913978,
+  "test_rmse": 123.4470735740634,
+  "cv_mean_r2": -2.9145642743699795e-08,
+  "cv_std_r2": 6.821103054673652e-07,
+  "n_train": 13166902,
+  "n_test": 1462990,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T10:07:30.940364",
+  "model_path": "..\\models\\Palencia\\province\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\province\\scaler_watertanklevel.pkl"
+}

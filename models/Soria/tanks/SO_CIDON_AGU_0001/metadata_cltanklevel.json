@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CIDON_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.06103387652506742,
+  "test_mae": 0.05205037908494259,
+  "test_rmse": 0.06096701687847649,
+  "cv_mean_r2": 0.055916809067113625,
+  "cv_std_r2": 0.008149050894609617,
+  "n_train": 23625,
+  "n_test": 2626,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:49.950812",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\randomforest_cltanklevel.pkl",
+  "scaler_path": null
+}

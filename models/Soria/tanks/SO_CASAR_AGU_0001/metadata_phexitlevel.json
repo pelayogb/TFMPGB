@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CASAR_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0017327312525727834,
+  "test_mae": 0.5102437186999974,
+  "test_rmse": 0.6207874021169254,
+  "cv_mean_r2": -0.0008282641093269483,
+  "cv_std_r2": 0.0010600935273397628,
+  "n_train": 23568,
+  "n_test": 2619,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:31.400211",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CASAR_AGU_0001\\histgradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

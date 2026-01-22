@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_VIDOL_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 7.63720247520805e-06,
+  "test_mae": 0.0930770908763247,
+  "test_rmse": 0.10941370264110403,
+  "cv_mean_r2": -0.0018624912561601148,
+  "cv_std_r2": 0.0019062497734727423,
+  "n_train": 6217,
+  "n_test": 691,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:39:43.972837",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_VIDOL_AGU_0001\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_VIDOL_AGU_0001\\scaler_clexitlevel.pkl"
+}

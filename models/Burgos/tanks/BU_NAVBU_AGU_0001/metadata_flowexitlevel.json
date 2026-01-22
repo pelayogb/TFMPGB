@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_NAVBU_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -7.414546750483808e-05,
+  "test_mae": 2.8528255463458505,
+  "test_rmse": 3.533574782939843,
+  "cv_mean_r2": -0.0011173050058125745,
+  "cv_std_r2": 0.001286534609986823,
+  "n_train": 7909,
+  "n_test": 879,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:03.433197",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

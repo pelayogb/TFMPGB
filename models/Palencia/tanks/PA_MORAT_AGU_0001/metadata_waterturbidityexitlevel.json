@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_MORAT_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 5.894520201932263e-05,
+  "test_mae": 140.927811555416,
+  "test_rmse": 172.59442058169407,
+  "cv_mean_r2": -6.889708416035756e-05,
+  "cv_std_r2": 9.186627423866821e-05,
+  "n_train": 119539,
+  "n_test": 13283,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T10:50:05.445438",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SANFG_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00027332259456480656,
+  "test_mae": 18.88842276933768,
+  "test_rmse": 22.821681785030975,
+  "cv_mean_r2": -0.0030085300923844206,
+  "cv_std_r2": 0.0019914475526542196,
+  "n_train": 8300,
+  "n_test": 923,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:09.050092",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SANFG_AGU_0001\\histgradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

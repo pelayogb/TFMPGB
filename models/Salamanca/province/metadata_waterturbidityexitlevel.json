@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00028539633596325054,
+  "test_mae": 140.03765291626047,
+  "test_rmse": 172.005702376062,
+  "cv_mean_r2": 1.473976287083012e-05,
+  "cv_std_r2": 2.543803175446729e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:56:23.579335",
+  "model_path": "..\\models\\Salamanca\\province\\histgradientboosting_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_BARCE_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0018307197618503412,
+  "test_mae": 107.75170552502207,
+  "test_rmse": 124.30382273928046,
+  "cv_mean_r2": -0.002391254996431913,
+  "cv_std_r2": 0.0010404518333398123,
+  "n_train": 8671,
+  "n_test": 964,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:36:46.188425",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_BARCE_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

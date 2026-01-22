@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANTO_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 5.8574322212567864e-05,
+  "test_mae": 0.49956926607133034,
+  "test_rmse": 0.6054890923506815,
+  "cv_mean_r2": -0.0002488383270183414,
+  "cv_std_r2": 0.00018884153791713022,
+  "n_train": 205876,
+  "n_test": 22876,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:34:50.502374",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\gradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

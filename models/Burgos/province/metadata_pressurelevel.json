@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -7.113363435595765e-05,
+  "test_mae": 1.3276240094860328,
+  "test_rmse": 1.5377991267535573,
+  "cv_mean_r2": -0.0002602555722064803,
+  "cv_std_r2": 0.00016950449560766923,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T09:58:59.426372",
+  "model_path": "..\\models\\Burgos\\province\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Burgos\\province\\scaler_pressurelevel.pkl"
+}

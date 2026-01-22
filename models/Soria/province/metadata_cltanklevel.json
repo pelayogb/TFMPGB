@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.02397968086516411,
+  "test_mae": 0.061078131042191945,
+  "test_rmse": 0.07086630582582616,
+  "cv_mean_r2": 0.02223674578441672,
+  "cv_std_r2": 0.0010706148380115455,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:58:15.896314",
+  "model_path": "..\\models\\Soria\\province\\gradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

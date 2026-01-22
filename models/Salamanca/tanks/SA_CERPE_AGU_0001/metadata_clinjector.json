@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CERPE_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.000816886308726783,
+  "test_mae": 0.0585203984846854,
+  "test_rmse": 0.06975150425151087,
+  "cv_mean_r2": -0.0012592513227464685,
+  "cv_std_r2": 0.000720248977499393,
+  "n_train": 7596,
+  "n_test": 845,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:37:25.310553",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\scaler_clinjector.pkl"
+}

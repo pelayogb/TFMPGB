@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_ITEVE_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -4.017830966374092e-06,
+  "test_mae": 140.08698664233006,
+  "test_rmse": 172.4358372558205,
+  "cv_mean_r2": -2.4983005875522936e-05,
+  "cv_std_r2": 1.5784265942371288e-05,
+  "n_train": 2140491,
+  "n_test": 237833,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:23:23.250462",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\randomforest_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

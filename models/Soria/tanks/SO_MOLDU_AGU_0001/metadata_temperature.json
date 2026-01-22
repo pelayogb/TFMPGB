@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00035081681190018976,
+  "test_mae": 11.533636618105392,
+  "test_rmse": 13.287880247138403,
+  "cv_mean_r2": -0.002988060412185112,
+  "cv_std_r2": 0.0039625895205908776,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:09.883258",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

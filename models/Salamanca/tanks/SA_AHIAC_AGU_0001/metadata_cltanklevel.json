@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_AHIAC_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.008489639292738271,
+  "test_mae": 0.054337659697621936,
+  "test_rmse": 0.06421497405465328,
+  "cv_mean_r2": -0.003193344678602439,
+  "cv_std_r2": 0.0018975523913261157,
+  "n_train": 5734,
+  "n_test": 638,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:34.822088",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\linearregression_cltanklevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\scaler_cltanklevel.pkl"
+}

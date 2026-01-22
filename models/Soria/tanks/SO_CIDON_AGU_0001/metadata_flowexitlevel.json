@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CIDON_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00021550453302521255,
+  "test_mae": 1.2607701616168039,
+  "test_rmse": 1.5623660255734872,
+  "cv_mean_r2": -0.00042810759651499273,
+  "cv_std_r2": 0.0005157037181558027,
+  "n_train": 23625,
+  "n_test": 2626,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:49.194929",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\scaler_flowexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CARCO_AGU_0003",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0020294811642800337,
+  "test_mae": 2.9191819661805813,
+  "test_rmse": 3.509105292995096,
+  "cv_mean_r2": -0.033471347336417434,
+  "cv_std_r2": 0.031297938505981525,
+  "n_train": 396,
+  "n_test": 44,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:12:13.243142",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\gradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

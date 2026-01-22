@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_VALSL_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.002777318693566233,
+  "test_mae": 1.3444720971228368,
+  "test_rmse": 1.566723123952401,
+  "cv_mean_r2": -0.0015878126208385356,
+  "cv_std_r2": 0.0007401760051859366,
+  "n_train": 9255,
+  "n_test": 1029,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:39:40.374738",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_VALSL_AGU_0001\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_VALSL_AGU_0001\\scaler_pressurelevel.pkl"
+}

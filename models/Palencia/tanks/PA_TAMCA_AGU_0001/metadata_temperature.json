@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_TAMCA_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -7.309665677146526e-05,
+  "test_mae": 11.347879392530087,
+  "test_rmse": 13.174230949208864,
+  "cv_mean_r2": -3.378753370384402e-05,
+  "cv_std_r2": 2.980570596344353e-05,
+  "n_train": 200983,
+  "n_test": 22332,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:35:45.653778",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\scaler_temperature.pkl"
+}

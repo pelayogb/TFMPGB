@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SOBRA_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0005655262133873462,
+  "test_mae": 0.4954639823188927,
+  "test_rmse": 0.5899549713813338,
+  "cv_mean_r2": -0.00483060555357433,
+  "cv_std_r2": 0.002813715778818142,
+  "n_train": 5570,
+  "n_test": 619,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:22.961854",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SOBRA_AGU_0001\\gradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

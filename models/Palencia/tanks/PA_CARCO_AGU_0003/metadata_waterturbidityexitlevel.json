@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CARCO_AGU_0003",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.05209247921171134,
+  "test_mae": 132.93071939167243,
+  "test_rmse": 152.0382011548733,
+  "cv_mean_r2": -0.05595623884099314,
+  "cv_std_r2": 0.036230179403291415,
+  "n_train": 396,
+  "n_test": 44,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:12:12.524544",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\randomforest_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

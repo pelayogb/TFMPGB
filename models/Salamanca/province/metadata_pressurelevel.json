@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -2.0472050521691543e-05,
+  "test_mae": 1.3342415395142033,
+  "test_rmse": 1.5457239345337144,
+  "cv_mean_r2": -0.00015646540112901342,
+  "cv_std_r2": 5.9835546045949646e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:56:36.183072",
+  "model_path": "..\\models\\Salamanca\\province\\randomforest_pressurelevel.pkl",
+  "scaler_path": null
+}

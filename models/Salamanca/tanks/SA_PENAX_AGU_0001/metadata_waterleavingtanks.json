@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_PENAX_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9745226446884623,
+  "test_mae": 108.1519832665867,
+  "test_rmse": 164.40548872984508,
+  "cv_mean_r2": 0.9729476908419524,
+  "cv_std_r2": 0.0010190150100036776,
+  "n_train": 5062,
+  "n_test": 563,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:39.502345",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

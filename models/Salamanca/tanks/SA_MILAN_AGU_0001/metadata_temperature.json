@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MILAN_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0004706596204691049,
+  "test_mae": 11.442325317978547,
+  "test_rmse": 13.231469576511236,
+  "cv_mean_r2": -0.0007788970952484986,
+  "cv_std_r2": 0.0007730124868041313,
+  "n_train": 6676,
+  "n_test": 742,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:23.830668",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\scaler_temperature.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_UCEVA_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.737042119331818,
+  "test_mae": 213.01656842173983,
+  "test_rmse": 608.3065785449326,
+  "cv_mean_r2": 0.7402220371103507,
+  "cv_std_r2": 0.03262089268971259,
+  "n_train": 9652,
+  "n_test": 1073,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:31.308411",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

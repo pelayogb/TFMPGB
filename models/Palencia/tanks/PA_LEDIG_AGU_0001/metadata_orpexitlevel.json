@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_LEDIG_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00047176852279262604,
+  "test_mae": 20.048399124708425,
+  "test_rmse": 25.12067460049618,
+  "cv_mean_r2": -0.017964938121671548,
+  "cv_std_r2": 0.013928609177856308,
+  "n_train": 2570,
+  "n_test": 286,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T10:49:53.074613",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_LEDIG_AGU_0001\\gradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

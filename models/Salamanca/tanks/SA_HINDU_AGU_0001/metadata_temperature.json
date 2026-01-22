@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_HINDU_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.007697635134713776,
+  "test_mae": 11.646257808853283,
+  "test_rmse": 13.299190346940582,
+  "cv_mean_r2": -0.0024301918821814095,
+  "cv_std_r2": 0.002514328814172056,
+  "n_train": 2888,
+  "n_test": 321,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:00.183481",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

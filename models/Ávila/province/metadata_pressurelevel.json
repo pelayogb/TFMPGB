@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "\u00c1vila",
+  "tank_id": null,
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.4482949010963253e-05,
+  "test_mae": 1.3307240329531138,
+  "test_rmse": 1.541751847977548,
+  "cv_mean_r2": -3.404318845854348e-05,
+  "cv_std_r2": 2.2861660285721922e-05,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:00:25.974372",
+  "model_path": "..\\models\\\u00c1vila\\province\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\\u00c1vila\\province\\scaler_pressurelevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CARCO_AGU_0003",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.019091526294662486,
+  "test_mae": 0.47319806001084,
+  "test_rmse": 0.5720979568930373,
+  "cv_mean_r2": -0.06114282362916516,
+  "cv_std_r2": 0.028412338693777656,
+  "n_train": 396,
+  "n_test": 44,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:12:12.252544",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\randomforest_phexitlevel.pkl",
+  "scaler_path": null
+}

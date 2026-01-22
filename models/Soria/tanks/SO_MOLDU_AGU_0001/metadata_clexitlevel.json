@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.0,
+  "test_mae": 0.0,
+  "test_rmse": 0.0,
+  "cv_mean_r2": 1.0,
+  "cv_std_r2": 0.0,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:08.706315",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\scaler_clexitlevel.pkl"
+}

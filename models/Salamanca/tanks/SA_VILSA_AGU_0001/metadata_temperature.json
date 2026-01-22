@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_VILSA_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0076547424350636994,
+  "test_mae": 11.379997818362003,
+  "test_rmse": 13.176159431361194,
+  "cv_mean_r2": -0.001531783541075482,
+  "cv_std_r2": 0.0007119861063016044,
+  "n_train": 3238,
+  "n_test": 360,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:39:54.008390",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_VILSA_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_VILSA_AGU_0001\\scaler_temperature.pkl"
+}

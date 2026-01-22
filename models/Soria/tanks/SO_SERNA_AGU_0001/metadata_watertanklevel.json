@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_SERNA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9183291564482865,
+  "test_mae": 0.08964387876096754,
+  "test_rmse": 0.15242809475558486,
+  "cv_mean_r2": 0.8866474875154575,
+  "cv_std_r2": 0.023279214027882106,
+  "n_train": 19332,
+  "n_test": 2149,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:36.793194",
+  "model_path": "..\\models\\Soria\\tanks\\SO_SERNA_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

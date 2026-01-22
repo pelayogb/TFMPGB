@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0002493878507898728,
+  "test_mae": 0.05923309762784861,
+  "test_rmse": 0.06960267190135322,
+  "cv_mean_r2": -0.0004915348802428277,
+  "cv_std_r2": 0.00024521386763898235,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T09:59:03.062453",
+  "model_path": "..\\models\\Burgos\\province\\histgradientboosting_clinjector.pkl",
+  "scaler_path": null
+}

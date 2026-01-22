@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_SAPGA_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0021417964053839222,
+  "test_mae": 0.0955445870283475,
+  "test_rmse": 0.11239264264541507,
+  "cv_mean_r2": -0.003506627319879474,
+  "cv_std_r2": 0.00205951055653346,
+  "n_train": 7867,
+  "n_test": 875,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:09.580252",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_SAPGA_AGU_0001\\randomforest_clexitlevel.pkl",
+  "scaler_path": null
+}

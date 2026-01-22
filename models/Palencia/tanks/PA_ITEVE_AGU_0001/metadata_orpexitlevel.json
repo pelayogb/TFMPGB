@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_ITEVE_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -2.1787362269876098e-07,
+  "test_mae": 19.385649288842455,
+  "test_rmse": 23.441629053390336,
+  "cv_mean_r2": -2.7628786032796173e-06,
+  "cv_std_r2": 1.796415679071442e-06,
+  "n_train": 2140491,
+  "n_test": 237833,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T17:27:58.742696",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\scaler_orpexitlevel.pkl"
+}

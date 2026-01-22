@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -2.1869257989637347e-05,
+  "test_mae": 1.3256171035125794,
+  "test_rmse": 1.5373639606234137,
+  "cv_mean_r2": -2.6274260655956284e-05,
+  "cv_std_r2": 1.1346117808017955e-05,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:57:53.678196",
+  "model_path": "..\\models\\Soria\\province\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Soria\\province\\scaler_pressurelevel.pkl"
+}

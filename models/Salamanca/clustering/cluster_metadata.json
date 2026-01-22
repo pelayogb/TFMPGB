@@ -1,0 +1,80 @@
+{
+  "province": "Salamanca",
+  "n_clusters": 3,
+  "n_tanks": 44,
+  "features_used": [
+    "watertanklevel",
+    "clexitlevel",
+    "phexitlevel",
+    "temperature",
+    "pressurelevel",
+    "flowexitlevel",
+    "orpexitlevel"
+  ],
+  "inertia": 486.6521568231803,
+  "cluster_stats": {
+    "cluster_0": {
+      "n_tanks": 13,
+      "tank_ids": [
+        "SA_AHIAC_AGU_0001",
+        "SA_BARCE_AGU_0001",
+        "SA_BARRU_AGU_0001",
+        "SA_CERPE_AGU_0001",
+        "SA_CERRA_AGU_0002",
+        "SA_GUADR_AGU_0001",
+        "SA_HINDU_AGU_0001",
+        "SA_LUMBR_AGU_0001",
+        "SA_OLMCA_AGU_0002",
+        "SA_PENAX_AGU_0001",
+        "SA_SOBRA_AGU_0001",
+        "SA_VALSL_AGU_0001",
+        "SA_VILSA_AGU_0001"
+      ]
+    },
+    "cluster_1": {
+      "n_tanks": 18,
+      "tank_ids": [
+        "SA_ALDRI_AGU_0001",
+        "SA_BANOB_AGU_0001",
+        "SA_BERME_AGU_0001",
+        "SA_CABCB_AGU_0002",
+        "SA_CALDD_AGU_0002",
+        "SA_CANAB_AGU_0001",
+        "SA_CERRA_AGU_0003",
+        "SA_ENCCO_AGU_0001",
+        "SA_FREGE_AGU_0001",
+        "SA_GUADR_AGU_0002",
+        "SA_MASUE_AGU_0001",
+        "SA_MASUE_AGU_0002",
+        "SA_MILAN_AGU_0001",
+        "SA_OLMCA_AGU_0001",
+        "SA_ROHVI_AGU_0001",
+        "SA_SALDE_AGU_0001",
+        "SA_VILLB_AGU_0002",
+        "SA_VILVE_AGU_0001"
+      ]
+    },
+    "cluster_2": {
+      "n_tanks": 13,
+      "tank_ids": [
+        "SA_CARSN_AGU_0001",
+        "SA_GEMYE_AGU_0001",
+        "SA_MIEZA_AGU_0001",
+        "SA_PICEN_AGU_0001",
+        "SA_REDON_AGU_0001",
+        "SA_ROLLA_AGU_0001",
+        "SA_SANFG_AGU_0001",
+        "SA_SANRI_AGU_0001",
+        "SA_SAUCE_AGU_0001",
+        "SA_UCEVA_AGU_0001",
+        "SA_VALDR_AGU_0001",
+        "SA_VIDOL_AGU_0001",
+        "SA_ZARPU_AGU_0001"
+      ]
+    }
+  },
+  "trained_on": "2025-12-10T11:45:32.718851",
+  "kmeans_path": "..\\models\\Salamanca\\clustering\\kmeans_model.pkl",
+  "scaler_path": "..\\models\\Salamanca\\clustering\\cluster_scaler.pkl",
+  "pca_path": "..\\models\\Salamanca\\clustering\\pca_model.pkl"
+}

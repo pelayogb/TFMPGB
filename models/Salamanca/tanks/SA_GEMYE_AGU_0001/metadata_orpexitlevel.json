@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_GEMYE_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -4.809805224259556e-05,
+  "test_mae": 19.70459877731632,
+  "test_rmse": 23.999784671088257,
+  "cv_mean_r2": -0.0034457949961457677,
+  "cv_std_r2": 0.0005613591070307545,
+  "n_train": 8392,
+  "n_test": 933,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:47.753525",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\randomforest_orpexitlevel.pkl",
+  "scaler_path": null
+}

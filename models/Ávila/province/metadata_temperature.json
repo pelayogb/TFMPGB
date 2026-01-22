@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "\u00c1vila",
+  "tank_id": null,
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.1751504905399557e-05,
+  "test_mae": 11.397873242563158,
+  "test_rmse": 13.191171259638109,
+  "cv_mean_r2": -2.0843310222362633e-05,
+  "cv_std_r2": 2.1713640939782006e-05,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:00:13.150763",
+  "model_path": "..\\models\\\u00c1vila\\province\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\\u00c1vila\\province\\scaler_temperature.pkl"
+}

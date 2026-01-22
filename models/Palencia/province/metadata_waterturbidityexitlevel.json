@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Palencia",
+  "tank_id": null,
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.03605359223539928,
+  "test_mae": 160.48517366308818,
+  "test_rmse": 230.07312484183598,
+  "cv_mean_r2": NaN,
+  "cv_std_r2": NaN,
+  "n_train": 13166902,
+  "n_test": 1462990,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T10:40:00.454526",
+  "model_path": "..\\models\\Palencia\\province\\randomforest_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

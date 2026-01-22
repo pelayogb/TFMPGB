@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "\u00c1vila",
+  "tank_id": "AV_MEDVO_CA_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -2.600668669971995e-05,
+  "test_mae": 19.382626164684304,
+  "test_rmse": 23.37005688846876,
+  "cv_mean_r2": -3.983917280923066e-05,
+  "cv_std_r2": 2.6221309945314746e-05,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:44:13.069328",
+  "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\histgradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

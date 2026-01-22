@@ -1,0 +1,1573 @@
+{
+  "created": "2025-12-10T12:11:51.763142",
+  "total_models": 1056,
+  "provinces": {
+    "Burgos": {
+      "total_models": 77,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "BU_BARON_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.17624025064679463
+        },
+        "BU_FRERT_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.10551573747310931
+        },
+        "BU_FRIAS_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.18156989641913013
+        },
+        "BU_NAVBU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.14313224786301568
+        },
+        "BU_SANOB_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.2064500168830133
+        },
+        "BU_SAPGA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.1806351791469413
+        }
+      }
+    },
+    "Palencia": {
+      "total_models": 242,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "PA_BOACA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.054230805793544716
+        },
+        "PA_CARCO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06503018395113833
+        },
+        "PA_CARCO_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08539529024348522
+        },
+        "PA_CARCO_AGU_0003": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.013757600156428856
+        },
+        "PA_CERVA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.11814966175137144
+        },
+        "PA_FROMI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.18856116366247228
+        },
+        "PA_FROMI_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.09070272650808356
+        },
+        "PA_FROMI_AGU_0003": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06930363623239215
+        },
+        "PA_ITEVE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08824645682315116
+        },
+        "PA_LAGAR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06261950824762466
+        },
+        "PA_LEDIG_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08314101201827283
+        },
+        "PA_MORAT_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07252179014789056
+        },
+        "PA_MORAT_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.05834914798206572
+        },
+        "PA_POBCA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.030390121509203574
+        },
+        "PA_REVCA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.05892996252378837
+        },
+        "PA_SANMA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08255542897612844
+        },
+        "PA_SANTO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08590453086527185
+        },
+        "PA_TAMCA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0873283598072897
+        },
+        "PA_VIECO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.09065592779173222
+        },
+        "PA_VIERO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08984646994613922
+        },
+        "PA_VILSI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.15650170255617385
+        }
+      }
+    },
+    "Salamanca": {
+      "total_models": 495,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "SA_AHIAC_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06836188616334968
+        },
+        "SA_ALDRI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06568260636336269
+        },
+        "SA_BANOB_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06609312648056008
+        },
+        "SA_BARCE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07155071251951217
+        },
+        "SA_BARRU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0883361540174722
+        },
+        "SA_BERME_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06487320195813961
+        },
+        "SA_CABCB_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07451496213755782
+        },
+        "SA_CALDD_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0798647148576489
+        },
+        "SA_CANAB_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08678748092581118
+        },
+        "SA_CARSN_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07536261941443549
+        },
+        "SA_CERPE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06460426109183198
+        },
+        "SA_CERRA_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06796067370863225
+        },
+        "SA_CERRA_AGU_0003": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07185429354107235
+        },
+        "SA_ENCCO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.023717934662508246
+        },
+        "SA_FREGE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06978071710829593
+        },
+        "SA_GEMYE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08505291373324758
+        },
+        "SA_GUADR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08921293742612167
+        },
+        "SA_GUADR_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08244786955945405
+        },
+        "SA_HINDU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08244373140164614
+        },
+        "SA_LUMBR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07631886646318303
+        },
+        "SA_MASUE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07728618192468378
+        },
+        "SA_MASUE_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08883807704654698
+        },
+        "SA_MIEZA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08793030370586553
+        },
+        "SA_MILAN_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.03446343828891525
+        },
+        "SA_OLMCA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0736746317598277
+        },
+        "SA_OLMCA_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08795005788164735
+        },
+        "SA_PENAX_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08828189457184786
+        },
+        "SA_PICEN_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0688619536044463
+        },
+        "SA_REDON_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06606651780738852
+        },
+        "SA_ROHVI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06456490378398554
+        },
+        "SA_ROLLA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07085751947624391
+        },
+        "SA_SALDE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0695532535801774
+        },
+        "SA_SANFG_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06696181881629738
+        },
+        "SA_SANRI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06864159567483721
+        },
+        "SA_SAUCE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06809690972600732
+        },
+        "SA_SOBRA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0663621577606168
+        },
+        "SA_UCEVA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06643963946644314
+        },
+        "SA_VALDR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0808272992000521
+        },
+        "SA_VALSL_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.0732170370207096
+        },
+        "SA_VIDOL_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08985960877972994
+        },
+        "SA_VILLB_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07671642182451646
+        },
+        "SA_VILSA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.06979636218587083
+        },
+        "SA_VILVE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.07154517854421334
+        },
+        "SA_ZARPU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08611735777674252
+        }
+      }
+    },
+    "Soria": {
+      "total_models": 165,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "SO_ALMAR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.1782102095888974
+        },
+        "SO_BOROB_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.19295568990049522
+        },
+        "SO_CALTO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.19286959850062918
+        },
+        "SO_CASAR_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.1323757778204411
+        },
+        "SO_CASRO_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.2016967464329846
+        },
+        "SO_CIDON_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.12090807697320564
+        },
+        "SO_COVAL_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.21430769322082527
+        },
+        "SO_ESPEJ_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.13807886023056926
+        },
+        "SO_MOLDU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.3276128667458915
+        },
+        "SO_MONTI_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.1559366515792476
+        },
+        "SO_MURFU_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.20827927983144132
+        },
+        "SO_NOVIE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.3599100226752512
+        },
+        "SO_SERNA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.17960085264801848
+        },
+        "SO_VALTE_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.1692454299590575
+        }
+      }
+    },
+    "Valladolid": {
+      "total_models": 55,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "VA_POZGA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08931269436860817
+        },
+        "VA_POZGA_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": -2.5254781897614166e+24
+        },
+        "VA_SERRA_AGU_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.09015931022015611
+        },
+        "VA_SERRA_AGU_0002": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.08920165981158744
+        }
+      }
+    },
+    "\u00c1vila": {
+      "total_models": 22,
+      "province_models": [
+        "watertanklevel",
+        "clexitlevel",
+        "phexitlevel",
+        "waterturbidityexitlevel",
+        "temperature",
+        "pressurelevel",
+        "orpexitlevel",
+        "flowexitlevel",
+        "cltanklevel",
+        "clinjector",
+        "waterleavingtanks"
+      ],
+      "tanks": {
+        "AV_MEDVO_CA_0001": {
+          "targets": [
+            "watertanklevel",
+            "clexitlevel",
+            "phexitlevel",
+            "waterturbidityexitlevel",
+            "temperature",
+            "pressurelevel",
+            "orpexitlevel",
+            "flowexitlevel",
+            "cltanklevel",
+            "clinjector",
+            "waterleavingtanks"
+          ],
+          "avg_r2": 0.28896645402486903
+        }
+      }
+    }
+  },
+  "statistics": {
+    "province_models": 66,
+    "tank_models": 990,
+    "targets": [
+      "watertanklevel",
+      "clexitlevel",
+      "phexitlevel",
+      "waterturbidityexitlevel",
+      "temperature",
+      "pressurelevel",
+      "orpexitlevel",
+      "flowexitlevel",
+      "cltanklevel",
+      "clinjector",
+      "waterleavingtanks"
+    ],
+    "avg_r2_province": 0.055078764375730026,
+    "avg_r2_tank": -2.806086877512685e+22
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_ALMAR_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.17202253284165236,
+  "test_mae": 2.906418024816442,
+  "test_rmse": 3.297011829029027,
+  "cv_mean_r2": 0.1633208218271296,
+  "cv_std_r2": 0.00992677961096754,
+  "n_train": 23596,
+  "n_test": 2622,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:06.889085",
+  "model_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

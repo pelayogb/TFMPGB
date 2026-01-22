@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "\u00c1vila",
+  "tank_id": "AV_MEDVO_CA_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.38341800798575976,
+  "test_mae": 0.052667662914726944,
+  "test_rmse": 0.13647931012379202,
+  "cv_mean_r2": 0.38648233498168505,
+  "cv_std_r2": 0.005771484893501821,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:42:52.695791",
+  "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\randomforest_clexitlevel.pkl",
+  "scaler_path": null
+}

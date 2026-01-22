@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_FRERT_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0035890738400845557,
+  "test_mae": 18.984219121588755,
+  "test_rmse": 23.2495890688684,
+  "cv_mean_r2": -0.0030673697044034665,
+  "cv_std_r2": 0.0017548285106693822,
+  "n_train": 7844,
+  "n_test": 872,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:01:54.852569",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\scaler_orpexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CIDON_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.000515757034845965,
+  "test_mae": 19.67169170088893,
+  "test_rmse": 23.85201592877649,
+  "cv_mean_r2": -0.0008972133873554888,
+  "cv_std_r2": 0.000353726460698055,
+  "n_train": 23625,
+  "n_test": 2626,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:48.666940",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\scaler_orpexitlevel.pkl"
+}

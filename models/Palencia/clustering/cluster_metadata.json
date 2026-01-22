@@ -1,0 +1,57 @@
+{
+  "province": "Palencia",
+  "n_clusters": 3,
+  "n_tanks": 21,
+  "features_used": [
+    "watertanklevel",
+    "clexitlevel",
+    "phexitlevel",
+    "temperature",
+    "pressurelevel",
+    "flowexitlevel",
+    "orpexitlevel"
+  ],
+  "inertia": 155.40618911945526,
+  "cluster_stats": {
+    "cluster_0": {
+      "n_tanks": 19,
+      "tank_ids": [
+        "PA_BOACA_AGU_0001",
+        "PA_CARCO_AGU_0001",
+        "PA_CARCO_AGU_0002",
+        "PA_CERVA_AGU_0001",
+        "PA_FROMI_AGU_0001",
+        "PA_FROMI_AGU_0002",
+        "PA_FROMI_AGU_0003",
+        "PA_ITEVE_AGU_0001",
+        "PA_LAGAR_AGU_0001",
+        "PA_LEDIG_AGU_0001",
+        "PA_MORAT_AGU_0001",
+        "PA_MORAT_AGU_0002",
+        "PA_POBCA_AGU_0001",
+        "PA_REVCA_AGU_0001",
+        "PA_SANMA_AGU_0001",
+        "PA_SANTO_AGU_0001",
+        "PA_TAMCA_AGU_0001",
+        "PA_VIECO_AGU_0001",
+        "PA_VIERO_AGU_0001"
+      ]
+    },
+    "cluster_1": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "PA_VILSI_AGU_0001"
+      ]
+    },
+    "cluster_2": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "PA_CARCO_AGU_0003"
+      ]
+    }
+  },
+  "trained_on": "2025-12-10T11:45:31.872107",
+  "kmeans_path": "..\\models\\Palencia\\clustering\\kmeans_model.pkl",
+  "scaler_path": "..\\models\\Palencia\\clustering\\cluster_scaler.pkl",
+  "pca_path": "..\\models\\Palencia\\clustering\\pca_model.pkl"
+}

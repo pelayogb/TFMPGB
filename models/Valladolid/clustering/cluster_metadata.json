@@ -1,0 +1,40 @@
+{
+  "province": "Valladolid",
+  "n_clusters": 3,
+  "n_tanks": 4,
+  "features_used": [
+    "watertanklevel",
+    "clexitlevel",
+    "phexitlevel",
+    "temperature",
+    "pressurelevel",
+    "flowexitlevel",
+    "orpexitlevel"
+  ],
+  "inertia": 15.677713360117973,
+  "cluster_stats": {
+    "cluster_0": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "VA_SERRA_AGU_0002"
+      ]
+    },
+    "cluster_1": {
+      "n_tanks": 2,
+      "tank_ids": [
+        "VA_POZGA_AGU_0001",
+        "VA_POZGA_AGU_0002"
+      ]
+    },
+    "cluster_2": {
+      "n_tanks": 1,
+      "tank_ids": [
+        "VA_SERRA_AGU_0001"
+      ]
+    }
+  },
+  "trained_on": "2025-12-10T11:45:34.335496",
+  "kmeans_path": "..\\models\\Valladolid\\clustering\\kmeans_model.pkl",
+  "scaler_path": "..\\models\\Valladolid\\clustering\\cluster_scaler.pkl",
+  "pca_path": "..\\models\\Valladolid\\clustering\\pca_model.pkl"
+}

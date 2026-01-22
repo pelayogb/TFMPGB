@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.5697761387021196,
+  "test_mae": 0.10810565179805355,
+  "test_rmse": 0.22091097462749448,
+  "cv_mean_r2": 0.5604805923520859,
+  "cv_std_r2": 0.022918629102387567,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:14.751709",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\gradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

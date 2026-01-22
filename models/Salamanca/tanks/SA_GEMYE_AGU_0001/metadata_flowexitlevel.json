@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_GEMYE_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0007665683591944195,
+  "test_mae": 2.7859134797040452,
+  "test_rmse": 3.479511480630596,
+  "cv_mean_r2": -0.0028624962756934823,
+  "cv_std_r2": 0.0016839035146345418,
+  "n_train": 8392,
+  "n_test": 933,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:48.178097",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

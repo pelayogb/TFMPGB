@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Palencia",
+  "tank_id": null,
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.054686266126591,
+  "test_mae": 0.13644077511006875,
+  "test_rmse": 0.17841083957084997,
+  "cv_mean_r2": 0.05488534512600925,
+  "cv_std_r2": 0.0002928097468473068,
+  "n_train": 13166902,
+  "n_test": 1462990,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T10:16:40.483023",
+  "model_path": "..\\models\\Palencia\\province\\histgradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

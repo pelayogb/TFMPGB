@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_MORAT_AGU_0002",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 3.546648881913583e-05,
+  "test_mae": 0.09450004820225393,
+  "test_rmse": 0.11112748926109912,
+  "cv_mean_r2": -9.227070976254303e-05,
+  "cv_std_r2": 6.185235837918962e-05,
+  "n_train": 161108,
+  "n_test": 17901,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T10:50:32.336587",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0002\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0002\\scaler_clexitlevel.pkl"
+}

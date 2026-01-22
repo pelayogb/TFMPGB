@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CASRO_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.000873659207406341,
+  "test_mae": 0.05939223359164303,
+  "test_rmse": 0.07025727524128345,
+  "cv_mean_r2": -0.0005013397592962931,
+  "cv_std_r2": 0.0004398215993078819,
+  "n_train": 15977,
+  "n_test": 1776,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:42.579410",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CASRO_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_CASRO_AGU_0001\\scaler_clinjector.pkl"
+}

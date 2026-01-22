@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 2.1373532809509932e-05,
+  "test_mae": 19.125771530774557,
+  "test_rmse": 23.026162202230488,
+  "cv_mean_r2": -0.00014148654070578193,
+  "cv_std_r2": 0.00027991295698281564,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:18.813616",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\scaler_orpexitlevel.pkl"
+}

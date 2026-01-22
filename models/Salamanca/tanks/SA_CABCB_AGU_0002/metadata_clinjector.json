@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CABCB_AGU_0002",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0026840320422661934,
+  "test_mae": 0.05829394234217056,
+  "test_rmse": 0.06870353395583112,
+  "cv_mean_r2": -0.002118801754169719,
+  "cv_std_r2": 0.001941346639001808,
+  "n_train": 9487,
+  "n_test": 1055,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:05.384212",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CABCB_AGU_0002\\histgradientboosting_clinjector.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CERPE_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.723863493738768,
+  "test_mae": 22.53806619066982,
+  "test_rmse": 88.65152491069429,
+  "cv_mean_r2": 0.7747156441293784,
+  "cv_std_r2": 0.020413605856874847,
+  "n_train": 7596,
+  "n_test": 845,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:25.603975",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

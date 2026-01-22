@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.010056567929387472,
+  "test_mae": 246903.85832632956,
+  "test_rmse": 315710.2136446849,
+  "cv_mean_r2": 0.009962017980968917,
+  "cv_std_r2": 0.0006870204538982708,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:58:32.208060",
+  "model_path": "..\\models\\Soria\\province\\gradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -7.773767269370069e-05,
+  "test_mae": 1.2621113562549366,
+  "test_rmse": 1.5680644333766054,
+  "cv_mean_r2": -3.408898756858125e-05,
+  "cv_std_r2": 3.4230041213240824e-05,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:58:05.593438",
+  "model_path": "..\\models\\Soria\\province\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\province\\scaler_flowexitlevel.pkl"
+}

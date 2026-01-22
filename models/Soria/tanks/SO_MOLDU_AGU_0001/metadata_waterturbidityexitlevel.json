@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00020136565509498716,
+  "test_mae": 141.21616032231097,
+  "test_rmse": 172.20086127476847,
+  "cv_mean_r2": -0.0020312456226470486,
+  "cv_std_r2": 0.0012799007878950032,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:09.512858",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\histgradientboosting_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MURFU_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9994467717891381,
+  "test_mae": 0.019850290143841473,
+  "test_rmse": 0.06773215416335121,
+  "cv_mean_r2": 0.9976503361572051,
+  "cv_std_r2": 0.0025800612341929027,
+  "n_train": 22536,
+  "n_test": 2504,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:22.033880",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

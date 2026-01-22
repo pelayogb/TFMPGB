@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -2.8012347856209985e-05,
+  "test_mae": 106.17184846164247,
+  "test_rmse": 123.11959322874321,
+  "cv_mean_r2": 3.92865812075538e-06,
+  "cv_std_r2": 2.0253522195061647e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:56:04.616200",
+  "model_path": "..\\models\\Salamanca\\province\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\province\\scaler_watertanklevel.pkl"
+}

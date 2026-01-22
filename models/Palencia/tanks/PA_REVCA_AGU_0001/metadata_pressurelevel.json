@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_REVCA_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.8606304185597722e-05,
+  "test_mae": 1.3250770667205332,
+  "test_rmse": 1.536280592332682,
+  "cv_mean_r2": -6.131657085983732e-06,
+  "cv_std_r2": 1.3223638557125196e-05,
+  "n_train": 884355,
+  "n_test": 98262,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:32:50.761094",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_REVCA_AGU_0001\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_REVCA_AGU_0001\\scaler_pressurelevel.pkl"
+}

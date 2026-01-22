@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CASRO_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.36485920793405024,
+  "test_mae": 0.08636250246020666,
+  "test_rmse": 0.17415653907327172,
+  "cv_mean_r2": 0.30814448101028385,
+  "cv_std_r2": 0.03520582974596131,
+  "n_train": 15977,
+  "n_test": 1776,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:38.208474",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CASRO_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

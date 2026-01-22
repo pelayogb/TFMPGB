@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANMA_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00017795366582507022,
+  "test_mae": 0.09322297493563257,
+  "test_rmse": 0.10986211420195076,
+  "cv_mean_r2": -0.013650300313585917,
+  "cv_std_r2": 0.015308161243276108,
+  "n_train": 1321,
+  "n_test": 147,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:34:32.674799",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\gradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

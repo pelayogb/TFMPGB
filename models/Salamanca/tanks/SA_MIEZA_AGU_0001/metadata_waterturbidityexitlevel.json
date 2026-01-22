@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MIEZA_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.000240149956295177,
+  "test_mae": 141.72041324640733,
+  "test_rmse": 176.88102456448473,
+  "cv_mean_r2": -0.0022897811202978956,
+  "cv_std_r2": 0.001429738350237724,
+  "n_train": 6421,
+  "n_test": 714,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:19.006357",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
+}

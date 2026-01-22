@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0002",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0015410843430219145,
+  "test_mae": 19.117324691803255,
+  "test_rmse": 23.2060647304221,
+  "cv_mean_r2": -9.644724440449614e-06,
+  "cv_std_r2": 0.0002564447325759427,
+  "n_train": 7355,
+  "n_test": 818,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:58.432210",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0002\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0002\\scaler_orpexitlevel.pkl"
+}

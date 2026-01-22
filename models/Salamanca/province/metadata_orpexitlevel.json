@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -3.30350923261058e-05,
+  "test_mae": 19.3814486952135,
+  "test_rmse": 23.459431813262633,
+  "cv_mean_r2": -2.8782060952314837e-05,
+  "cv_std_r2": 9.428237410456173e-06,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:56:41.336509",
+  "model_path": "..\\models\\Salamanca\\province\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\province\\scaler_orpexitlevel.pkl"
+}

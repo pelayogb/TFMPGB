@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ROHVI_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.7301431338147217,
+  "test_mae": 243.89451808283482,
+  "test_rmse": 647.0707273432189,
+  "cv_mean_r2": 0.6831653600153051,
+  "cv_std_r2": 0.034623631882851606,
+  "n_train": 8230,
+  "n_test": 915,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:54.688593",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

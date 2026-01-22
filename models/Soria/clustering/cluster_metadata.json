@@ -1,0 +1,50 @@
+{
+  "province": "Soria",
+  "n_clusters": 3,
+  "n_tanks": 14,
+  "features_used": [
+    "watertanklevel",
+    "clexitlevel",
+    "phexitlevel",
+    "temperature",
+    "pressurelevel",
+    "flowexitlevel",
+    "orpexitlevel"
+  ],
+  "inertia": 129.11216079002756,
+  "cluster_stats": {
+    "cluster_0": {
+      "n_tanks": 5,
+      "tank_ids": [
+        "SO_ALMAR_AGU_0001",
+        "SO_MONTI_AGU_0001",
+        "SO_MURFU_AGU_0001",
+        "SO_NOVIE_AGU_0001",
+        "SO_VALTE_AGU_0001"
+      ]
+    },
+    "cluster_1": {
+      "n_tanks": 6,
+      "tank_ids": [
+        "SO_CALTO_AGU_0001",
+        "SO_CASAR_AGU_0001",
+        "SO_CASRO_AGU_0001",
+        "SO_CIDON_AGU_0001",
+        "SO_ESPEJ_AGU_0001",
+        "SO_MOLDU_AGU_0001"
+      ]
+    },
+    "cluster_2": {
+      "n_tanks": 3,
+      "tank_ids": [
+        "SO_BOROB_AGU_0001",
+        "SO_COVAL_AGU_0001",
+        "SO_SERNA_AGU_0001"
+      ]
+    }
+  },
+  "trained_on": "2025-12-10T11:45:33.608779",
+  "kmeans_path": "..\\models\\Soria\\clustering\\kmeans_model.pkl",
+  "scaler_path": "..\\models\\Soria\\clustering\\cluster_scaler.pkl",
+  "pca_path": "..\\models\\Soria\\clustering\\pca_model.pkl"
+}

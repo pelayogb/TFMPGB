@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Valladolid",
+  "tank_id": null,
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0009549698686696084,
+  "test_mae": 256694.32790752334,
+  "test_rmse": 296865.68690135475,
+  "cv_mean_r2": 0.0009818763022584997,
+  "cv_std_r2": 0.0017378125372490521,
+  "n_train": 29431,
+  "n_test": 3271,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:58:42.633987",
+  "model_path": "..\\models\\Valladolid\\province\\linearregression_waterleavingtanks.pkl",
+  "scaler_path": "..\\models\\Valladolid\\province\\scaler_waterleavingtanks.pkl"
+}

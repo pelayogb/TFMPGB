@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANMA_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.04151234013669214,
+  "test_mae": 0.5451179843162687,
+  "test_rmse": 0.6526956717479976,
+  "cv_mean_r2": -0.008465518889220314,
+  "cv_std_r2": 0.01686813978274024,
+  "n_train": 1321,
+  "n_test": 147,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:34:32.921103",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\linearregression_phexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\scaler_phexitlevel.pkl"
+}

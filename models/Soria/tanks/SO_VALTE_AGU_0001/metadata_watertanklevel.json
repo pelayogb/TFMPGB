@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_VALTE_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.29014247255870373,
+  "test_mae": 1.270214862843663,
+  "test_rmse": 2.4117920001114475,
+  "cv_mean_r2": 0.2946753430303468,
+  "cv_std_r2": 0.009524053969021926,
+  "n_train": 21057,
+  "n_test": 2340,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:43.807920",
+  "model_path": "..\\models\\Soria\\tanks\\SO_VALTE_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

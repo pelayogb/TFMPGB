@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0002",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0002361629186234948,
+  "test_mae": 136.3978168401872,
+  "test_rmse": 167.63374734388057,
+  "cv_mean_r2": -0.0005574955259589398,
+  "cv_std_r2": 0.000981076555329766,
+  "n_train": 7356,
+  "n_test": 818,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:42:07.047623",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\linearregression_waterturbidityexitlevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\scaler_waterturbidityexitlevel.pkl"
+}

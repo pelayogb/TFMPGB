@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CARSN_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.004766282610394246,
+  "test_mae": 0.4809390589155941,
+  "test_rmse": 0.5849828711380204,
+  "cv_mean_r2": -0.0007984889077154334,
+  "cv_std_r2": 0.0009986651549034385,
+  "n_train": 5739,
+  "n_test": 638,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:37:17.959952",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CARSN_AGU_0001\\linearregression_phexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CARSN_AGU_0001\\scaler_phexitlevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_COVAL_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.0,
+  "test_mae": 0.0,
+  "test_rmse": 0.0,
+  "cv_mean_r2": 1.0,
+  "cv_std_r2": 0.0,
+  "n_train": 23697,
+  "n_test": 2634,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:52.405159",
+  "model_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\scaler_watertanklevel.pkl"
+}

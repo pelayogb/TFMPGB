@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Valladolid",
+  "tank_id": null,
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00018940369084163855,
+  "test_mae": 11.355254966682082,
+  "test_rmse": 13.127063590816677,
+  "cv_mean_r2": -0.0003157302110621263,
+  "cv_std_r2": 0.00026983305399466375,
+  "n_train": 29431,
+  "n_test": 3271,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:58:36.621507",
+  "model_path": "..\\models\\Valladolid\\province\\histgradientboosting_temperature.pkl",
+  "scaler_path": null
+}

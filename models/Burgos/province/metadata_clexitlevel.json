@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00011694960197483617,
+  "test_mae": 0.09516005975274994,
+  "test_rmse": 0.11184362168822261,
+  "cv_mean_r2": -0.00018279533171590147,
+  "cv_std_r2": 0.00012080230436348481,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T09:58:54.711587",
+  "model_path": "..\\models\\Burgos\\province\\linearregression_clexitlevel.pkl",
+  "scaler_path": "..\\models\\Burgos\\province\\scaler_clexitlevel.pkl"
+}

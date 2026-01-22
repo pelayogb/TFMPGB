@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_PENAX_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.002860741558331048,
+  "test_mae": 104.3127130304011,
+  "test_rmse": 122.43787025065014,
+  "cv_mean_r2": -0.00587221517202865,
+  "cv_std_r2": 0.003908310985413304,
+  "n_train": 5062,
+  "n_test": 563,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:36.606315",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\gradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.05526004241451132,
+  "test_mae": 0.2723609505845235,
+  "test_rmse": 0.9633575729653284,
+  "cv_mean_r2": 0.059486134854937235,
+  "cv_std_r2": 0.004566929136193742,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T09:59:04.043862",
+  "model_path": "..\\models\\Burgos\\province\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

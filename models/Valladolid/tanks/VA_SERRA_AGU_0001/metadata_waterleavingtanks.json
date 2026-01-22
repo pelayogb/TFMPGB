@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9930558217954416,
+  "test_mae": 1584.970876077926,
+  "test_rmse": 1920.6021532399952,
+  "cv_mean_r2": 0.9930862172337764,
+  "cv_std_r2": 0.00021667134383079103,
+  "n_train": 7353,
+  "n_test": 818,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:42:04.799012",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

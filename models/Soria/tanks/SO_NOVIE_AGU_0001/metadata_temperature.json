@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_NOVIE_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -9.440116405201593e-05,
+  "test_mae": 11.581798057745916,
+  "test_rmse": 13.33304589276468,
+  "cv_mean_r2": -0.002517099662380984,
+  "cv_std_r2": 0.0015942018514694474,
+  "n_train": 23623,
+  "n_test": 2625,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:32.194018",
+  "model_path": "..\\models\\Soria\\tanks\\SO_NOVIE_AGU_0001\\gradientboosting_temperature.pkl",
+  "scaler_path": null
+}

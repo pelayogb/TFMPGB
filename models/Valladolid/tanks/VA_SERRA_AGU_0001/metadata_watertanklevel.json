@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -8.152703142627615e-05,
+  "test_mae": 111.00814768137866,
+  "test_rmse": 127.24456583570479,
+  "cv_mean_r2": -0.001797009636900926,
+  "cv_std_r2": 0.0008760152110107382,
+  "n_train": 7353,
+  "n_test": 818,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:42:00.836383",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\scaler_watertanklevel.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_AHIAC_AGU_0001",
+  "target": "clexitlevel",
+  "target_name": "Cloro salida",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.005235994614774642,
+  "test_mae": 0.09460880732109253,
+  "test_rmse": 0.11198284035118032,
+  "cv_mean_r2": -0.004650391426720279,
+  "cv_std_r2": 0.003070642984514493,
+  "n_train": 5734,
+  "n_test": 638,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:36:32.362819",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\gradientboosting_clexitlevel.pkl",
+  "scaler_path": null
+}

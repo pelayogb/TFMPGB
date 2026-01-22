@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MURFU_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00021810989122128532,
+  "test_mae": 0.05899458554435857,
+  "test_rmse": 0.07005002602421379,
+  "cv_mean_r2": -0.0027729405255086715,
+  "cv_std_r2": 0.00045945174534584384,
+  "n_train": 22536,
+  "n_test": 2504,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:27.489362",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\randomforest_clinjector.pkl",
+  "scaler_path": null
+}

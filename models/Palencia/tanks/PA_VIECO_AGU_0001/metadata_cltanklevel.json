@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_VIECO_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.9112432656065437e-05,
+  "test_mae": 0.051358792572253634,
+  "test_rmse": 0.060367918793997576,
+  "cv_mean_r2": -0.00037512387565938885,
+  "cv_std_r2": 0.0003723430303687172,
+  "n_train": 40714,
+  "n_test": 4524,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:18.266167",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\linearregression_cltanklevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\scaler_cltanklevel.pkl"
+}

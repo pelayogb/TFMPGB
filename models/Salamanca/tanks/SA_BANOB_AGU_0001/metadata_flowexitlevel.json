@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_BANOB_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0017242918401481067,
+  "test_mae": 2.7596663877706007,
+  "test_rmse": 3.3232041954714044,
+  "cv_mean_r2": -0.0032353095809127376,
+  "cv_std_r2": 0.0004790335114539622,
+  "n_train": 5496,
+  "n_test": 611,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:36:44.024304",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_BANOB_AGU_0001\\gradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

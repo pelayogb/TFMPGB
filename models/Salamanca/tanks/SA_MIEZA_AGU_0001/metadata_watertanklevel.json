@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MIEZA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0004559890512444431,
+  "test_mae": 110.42165790790722,
+  "test_rmse": 126.28948237101949,
+  "cv_mean_r2": -0.003120116532426809,
+  "cv_std_r2": 0.0035986835692523554,
+  "n_train": 6421,
+  "n_test": 714,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:18.083064",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

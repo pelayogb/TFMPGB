@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CALDD_AGU_0002",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.000498488544792286,
+  "test_mae": 11.259277377782409,
+  "test_rmse": 13.118856833406642,
+  "cv_mean_r2": -0.0004963595107623231,
+  "cv_std_r2": 0.0003180374028496922,
+  "n_train": 9495,
+  "n_test": 1055,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:37:08.566089",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CALDD_AGU_0002\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CALDD_AGU_0002\\scaler_temperature.pkl"
+}

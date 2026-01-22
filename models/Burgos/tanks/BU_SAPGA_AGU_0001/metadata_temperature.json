@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_SAPGA_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0027198298826009992,
+  "test_mae": 11.24371000001564,
+  "test_rmse": 13.099208793199864,
+  "cv_mean_r2": -0.0016973784868525633,
+  "cv_std_r2": 0.001532005249982367,
+  "n_train": 7867,
+  "n_test": 875,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:02:10.404903",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_SAPGA_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Burgos\\tanks\\BU_SAPGA_AGU_0001\\scaler_temperature.pkl"
+}

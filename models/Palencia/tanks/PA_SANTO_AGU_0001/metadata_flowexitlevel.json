@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANTO_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.0393120930540789e-05,
+  "test_mae": 2.824879429485869,
+  "test_rmse": 3.477952749986681,
+  "cv_mean_r2": -5.604772586655926e-05,
+  "cv_std_r2": 3.792492448341231e-05,
+  "n_train": 205876,
+  "n_test": 22876,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:35:12.507748",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\scaler_flowexitlevel.pkl"
+}

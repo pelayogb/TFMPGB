@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_SERNA_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.10020046488683665,
+  "test_mae": 21546.817051907703,
+  "test_rmse": 297196.9957152361,
+  "cv_mean_r2": 0.14520816790480134,
+  "cv_std_r2": 0.03262880844270233,
+  "n_train": 19332,
+  "n_test": 2149,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:42.256147",
+  "model_path": "..\\models\\Soria\\tanks\\SO_SERNA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

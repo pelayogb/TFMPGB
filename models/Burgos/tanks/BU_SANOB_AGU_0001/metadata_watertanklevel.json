@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_SANOB_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.8270605121610148,
+  "test_mae": 7.28253785077069,
+  "test_rmse": 23.26838954293222,
+  "cv_mean_r2": 0.808267163615253,
+  "cv_std_r2": 0.021255036212773942,
+  "n_train": 7919,
+  "n_test": 880,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:05.320496",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_SANOB_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

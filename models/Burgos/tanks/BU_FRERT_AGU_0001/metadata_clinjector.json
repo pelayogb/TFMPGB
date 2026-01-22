@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_FRERT_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0002851110798618439,
+  "test_mae": 0.05855849971054329,
+  "test_rmse": 0.06900009473098002,
+  "cv_mean_r2": -0.0031986694186937116,
+  "cv_std_r2": 0.0031334397073046806,
+  "n_train": 7844,
+  "n_test": 872,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:01:55.842445",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\scaler_clinjector.pkl"
+}

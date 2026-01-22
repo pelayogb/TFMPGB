@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CALTO_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00039883197836310114,
+  "test_mae": 1.2691089505993927,
+  "test_rmse": 1.5864769363219269,
+  "cv_mean_r2": -0.00023283944596605988,
+  "cv_std_r2": 0.00026961937744426776,
+  "n_train": 21751,
+  "n_test": 2417,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:26.882899",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\scaler_flowexitlevel.pkl"
+}

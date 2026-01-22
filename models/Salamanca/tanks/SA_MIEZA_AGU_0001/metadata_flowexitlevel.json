@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MIEZA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.002266825845883891,
+  "test_mae": 2.8716241065228063,
+  "test_rmse": 3.6066319275611174,
+  "cv_mean_r2": -0.003016698424062758,
+  "cv_std_r2": 0.0018899908931369754,
+  "n_train": 6421,
+  "n_test": 714,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:20.259649",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\gradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

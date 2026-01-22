@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_UCEVA_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0010631053908336519,
+  "test_mae": 19.400905295019783,
+  "test_rmse": 23.22896291143926,
+  "cv_mean_r2": -0.0010285109024708917,
+  "cv_std_r2": 0.0009492318884652429,
+  "n_train": 9652,
+  "n_test": 1073,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:39:29.501155",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\scaler_orpexitlevel.pkl"
+}

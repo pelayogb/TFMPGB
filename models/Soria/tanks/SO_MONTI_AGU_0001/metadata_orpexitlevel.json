@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MONTI_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0008815150208936195,
+  "test_mae": 18.965609701271926,
+  "test_rmse": 23.077663659365736,
+  "cv_mean_r2": -0.0007477997868533092,
+  "cv_std_r2": 0.0006114427667999804,
+  "n_train": 26257,
+  "n_test": 2918,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:17.990356",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MONTI_AGU_0001\\histgradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

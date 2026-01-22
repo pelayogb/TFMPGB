@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Valladolid",
+  "tank_id": null,
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0006222572106249213,
+  "test_mae": 107.14509395394919,
+  "test_rmse": 124.34861252916953,
+  "cv_mean_r2": -0.0003904020693433985,
+  "cv_std_r2": 0.00024455101583377556,
+  "n_train": 29431,
+  "n_test": 3271,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T11:58:33.087216",
+  "model_path": "..\\models\\Valladolid\\province\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\province\\scaler_watertanklevel.pkl"
+}

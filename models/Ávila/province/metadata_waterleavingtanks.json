@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "\u00c1vila",
+  "tank_id": null,
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.5550439704436694,
+  "test_mae": 164.78216807596905,
+  "test_rmse": 241.8519686701847,
+  "cv_mean_r2": 0.5534333366384591,
+  "cv_std_r2": 0.0020475239784352615,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:01:49.168378",
+  "model_path": "..\\models\\\u00c1vila\\province\\randomforest_waterleavingtanks.pkl",
+  "scaler_path": null
+}

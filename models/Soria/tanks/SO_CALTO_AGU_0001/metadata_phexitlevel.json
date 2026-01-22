@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_CALTO_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0005429412208949325,
+  "test_mae": 0.5054716371313798,
+  "test_rmse": 0.6111817912974423,
+  "cv_mean_r2": -0.002407402613459375,
+  "cv_std_r2": 0.0010343099159941835,
+  "n_train": 21751,
+  "n_test": 2417,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:24.289445",
+  "model_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\randomforest_phexitlevel.pkl",
+  "scaler_path": null
+}

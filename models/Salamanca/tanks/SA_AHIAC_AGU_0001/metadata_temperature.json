@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_AHIAC_AGU_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0019506471533123904,
+  "test_mae": 11.432443490603841,
+  "test_rmse": 13.192142377841314,
+  "cv_mean_r2": -0.0007793281133267715,
+  "cv_std_r2": 0.0024247607688134103,
+  "n_train": 5734,
+  "n_test": 638,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:33.488099",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\scaler_temperature.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_VILSA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.013220085110569268,
+  "test_mae": 3.027191973681716,
+  "test_rmse": 3.7876245884593622,
+  "cv_mean_r2": -0.005152644971043996,
+  "cv_std_r2": 0.0032878840570323524,
+  "n_train": 3238,
+  "n_test": 360,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:54.808079",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_VILSA_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

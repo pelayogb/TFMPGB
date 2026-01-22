@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 6.160107825148309e-05,
+  "test_mae": 2.8234812280869397,
+  "test_rmse": 3.4738062898974067,
+  "cv_mean_r2": -7.222000085189695e-05,
+  "cv_std_r2": 7.206315059415743e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:56:48.230870",
+  "model_path": "..\\models\\Salamanca\\province\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

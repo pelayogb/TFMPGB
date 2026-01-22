@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "\u00c1vila",
+  "tank_id": "AV_MEDVO_CA_0001",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.1751504905399557e-05,
+  "test_mae": 11.397873242563158,
+  "test_rmse": 13.191171259638109,
+  "cv_mean_r2": -2.0843310222362633e-05,
+  "cv_std_r2": 2.1713640939782006e-05,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:43:46.956200",
+  "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\scaler_temperature.pkl"
+}

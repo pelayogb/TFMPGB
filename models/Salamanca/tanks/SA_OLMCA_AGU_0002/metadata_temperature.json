@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_OLMCA_AGU_0002",
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0007949926158359322,
+  "test_mae": 11.027346259872196,
+  "test_rmse": 12.88369696359013,
+  "cv_mean_r2": -0.003279796677873903,
+  "cv_std_r2": 0.00269194267865468,
+  "n_train": 5310,
+  "n_test": 590,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:33.840257",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_OLMCA_AGU_0002\\randomforest_temperature.pkl",
+  "scaler_path": null
+}

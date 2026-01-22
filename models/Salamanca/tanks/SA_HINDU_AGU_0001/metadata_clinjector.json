@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_HINDU_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.007607839381928327,
+  "test_mae": 0.061312057020358114,
+  "test_rmse": 0.0727436206139463,
+  "cv_mean_r2": 0.0003080952023800876,
+  "cv_std_r2": 0.0016165698768036492,
+  "n_train": 2888,
+  "n_test": 321,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:01.400380",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\scaler_clinjector.pkl"
+}

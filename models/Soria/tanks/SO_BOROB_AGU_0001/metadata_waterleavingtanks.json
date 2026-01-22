@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.0,
+  "test_mae": 0.0,
+  "test_rmse": 0.0,
+  "cv_mean_r2": 1.0,
+  "cv_std_r2": 0.0,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:21.143317",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\linearregression_waterleavingtanks.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\scaler_waterleavingtanks.pkl"
+}

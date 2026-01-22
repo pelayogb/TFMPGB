@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CARSN_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.00041745269635962146,
+  "test_mae": 18.752093914553708,
+  "test_rmse": 22.79324267436358,
+  "cv_mean_r2": -0.0025796624024060576,
+  "cv_std_r2": 0.0022674047171676644,
+  "n_train": 5739,
+  "n_test": 638,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:19.353679",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CARSN_AGU_0001\\randomforest_orpexitlevel.pkl",
+  "scaler_path": null
+}

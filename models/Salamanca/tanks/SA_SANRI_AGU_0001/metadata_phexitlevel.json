@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SANRI_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0007251161023829056,
+  "test_mae": 0.48957634783951115,
+  "test_rmse": 0.5998402062183313,
+  "cv_mean_r2": -0.004550391581715152,
+  "cv_std_r2": 0.0007223506581909464,
+  "n_train": 8023,
+  "n_test": 892,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:12.672179",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SANRI_AGU_0001\\gradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

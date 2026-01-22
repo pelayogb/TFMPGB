@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Burgos",
+  "tank_id": null,
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.006066918018505119,
+  "test_mae": 0.12247704643226202,
+  "test_rmse": 0.15222917642414385,
+  "cv_mean_r2": 0.0063266180930638075,
+  "cv_std_r2": 0.0023898205292854275,
+  "n_train": 40184,
+  "n_test": 4465,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T09:59:02.240809",
+  "model_path": "..\\models\\Burgos\\province\\randomforest_cltanklevel.pkl",
+  "scaler_path": null
+}

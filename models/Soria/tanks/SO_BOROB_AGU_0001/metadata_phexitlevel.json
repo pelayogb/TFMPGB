@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -3.4899762225260034e-05,
+  "test_mae": 0.4960973393957133,
+  "test_rmse": 0.6019741357651717,
+  "cv_mean_r2": -8.510289174297192e-05,
+  "cv_std_r2": 0.00040107995831192535,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:40:16.318212",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\linearregression_phexitlevel.pkl",
+  "scaler_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\scaler_phexitlevel.pkl"
+}

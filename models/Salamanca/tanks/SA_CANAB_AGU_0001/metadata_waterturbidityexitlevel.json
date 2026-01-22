@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_CANAB_AGU_0001",
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.003797588854390632,
+  "test_mae": 142.27322958628594,
+  "test_rmse": 179.0515883554874,
+  "cv_mean_r2": -0.0026624598252610763,
+  "cv_std_r2": 0.0031075100277311645,
+  "n_train": 7326,
+  "n_test": 815,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:13.671799",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_CANAB_AGU_0001\\gradientboosting_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

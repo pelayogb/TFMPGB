@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_TAMCA_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9610366933061537,
+  "test_mae": 373.45718900733954,
+  "test_rmse": 751.7937524057089,
+  "cv_mean_r2": 0.9641371797567568,
+  "cv_std_r2": 0.002171419972029223,
+  "n_train": 200983,
+  "n_test": 22332,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:36:10.027076",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
+  "scaler_path": null
+}

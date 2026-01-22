@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_GEMYE_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001949031909934229,
+  "test_mae": 107.90811927477661,
+  "test_rmse": 123.76877334791145,
+  "cv_mean_r2": -0.0006631768915342118,
+  "cv_std_r2": 0.0016002522031545426,
+  "n_train": 8392,
+  "n_test": 933,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:37:45.226194",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\scaler_watertanklevel.pkl"
+}

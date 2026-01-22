@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SALDE_AGU_0001",
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.7675303346593743,
+  "test_mae": 615.7981146461991,
+  "test_rmse": 1791.3769436300622,
+  "cv_mean_r2": 0.729028972313756,
+  "cv_std_r2": 0.019275443407614865,
+  "n_train": 9504,
+  "n_test": 1057,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:05.356941",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SALDE_AGU_0001\\randomforest_waterleavingtanks.pkl",
+  "scaler_path": null
+}

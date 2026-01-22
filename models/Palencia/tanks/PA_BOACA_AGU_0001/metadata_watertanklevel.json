@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_BOACA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -1.546998091628282e-05,
+  "test_mae": 106.32987556678391,
+  "test_rmse": 123.40422097776103,
+  "cv_mean_r2": -1.6513964914932622e-05,
+  "cv_std_r2": 1.2476181599871902e-05,
+  "n_train": 1261191,
+  "n_test": 140133,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:02:41.983699",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_BOACA_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_BOACA_AGU_0001\\scaler_watertanklevel.pkl"
+}

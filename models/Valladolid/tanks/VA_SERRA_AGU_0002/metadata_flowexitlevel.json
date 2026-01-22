@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_SERRA_AGU_0002",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0019608479598607342,
+  "test_mae": 2.824280146475417,
+  "test_rmse": 3.424731070077898,
+  "cv_mean_r2": -0.003179497092449424,
+  "cv_std_r2": 0.0027799211461272755,
+  "n_train": 7356,
+  "n_test": 818,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:42:08.679831",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\randomforest_flowexitlevel.pkl",
+  "scaler_path": null
+}

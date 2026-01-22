@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CARCO_AGU_0002",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001343740806705629,
+  "test_mae": 0.04980196111348515,
+  "test_rmse": 0.058941478424628345,
+  "cv_mean_r2": -0.013644461383166329,
+  "cv_std_r2": 0.0064079225213042705,
+  "n_train": 2808,
+  "n_test": 312,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:12:10.183249",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0002\\randomforest_cltanklevel.pkl",
+  "scaler_path": null
+}

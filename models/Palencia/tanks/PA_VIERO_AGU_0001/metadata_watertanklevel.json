@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_VIERO_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0030955281564171155,
+  "test_mae": 108.4729288842237,
+  "test_rmse": 126.36230386617335,
+  "cv_mean_r2": -0.002397816252452678,
+  "cv_std_r2": 0.002680591946541482,
+  "n_train": 4181,
+  "n_test": 465,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:36:21.427627",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\scaler_watertanklevel.pkl"
+}

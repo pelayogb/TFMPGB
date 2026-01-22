@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_ITEVE_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 7.872733184255409e-07,
+  "test_mae": 106.50833489118675,
+  "test_rmse": 123.47689495502276,
+  "cv_mean_r2": -1.6294260123173032e-05,
+  "cv_std_r2": 9.526326165712767e-06,
+  "n_train": 2140491,
+  "n_test": 237833,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:19:02.706736",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\histgradientboosting_watertanklevel.pkl",
+  "scaler_path": null
+}

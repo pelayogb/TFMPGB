@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_AHIAC_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0029958075039968612,
+  "test_mae": 2.86549809149561,
+  "test_rmse": 3.5396482376092373,
+  "cv_mean_r2": -0.003735914870074497,
+  "cv_std_r2": 0.0037765911163829074,
+  "n_train": 5734,
+  "n_test": 638,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:36:34.544031",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

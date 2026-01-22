@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "\u00c1vila",
+  "tank_id": null,
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.9479951692591744,
+  "test_mae": 0.285842247975115,
+  "test_rmse": 0.9353146502476238,
+  "cv_mean_r2": 0.9477500878065939,
+  "cv_std_r2": 0.0011142572295698668,
+  "n_train": 609229,
+  "n_test": 67693,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:00:00.232505",
+  "model_path": "..\\models\\\u00c1vila\\province\\randomforest_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

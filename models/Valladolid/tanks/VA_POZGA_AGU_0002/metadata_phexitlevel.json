@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0002",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0004418322508888961,
+  "test_mae": 0.4990738851743904,
+  "test_rmse": 0.6099483895313487,
+  "cv_mean_r2": -0.0034106337687504597,
+  "cv_std_r2": 0.002695429983748036,
+  "n_train": 7355,
+  "n_test": 818,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:56.848002",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0002\\randomforest_phexitlevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0007669874287701273,
+  "test_mae": 1.2559100549219877,
+  "test_rmse": 1.5397074457585818,
+  "cv_mean_r2": -0.0010992397616004456,
+  "cv_std_r2": 0.0005148140936237805,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:19.452023",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

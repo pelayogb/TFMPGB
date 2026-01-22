@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_PICEN_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.001721128632149016,
+  "test_mae": 2.849095611300219,
+  "test_rmse": 3.493510238970124,
+  "cv_mean_r2": -0.0012796850977129458,
+  "cv_std_r2": 0.0010991115691000811,
+  "n_train": 7335,
+  "n_test": 816,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:43.173148",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\scaler_flowexitlevel.pkl"
+}

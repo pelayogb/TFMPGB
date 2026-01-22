@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "waterleavingtanks",
+  "target_name": "Agua salida",
+  "target_unit": "m\u00b3",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.029505766281702428,
+  "test_mae": 31089.93455350532,
+  "test_rmse": 108503.57660279715,
+  "cv_mean_r2": 0.026987271863452754,
+  "cv_std_r2": 0.00011749842862975481,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:57:10.978320",
+  "model_path": "..\\models\\Salamanca\\province\\randomforest_waterleavingtanks.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Palencia",
+  "tank_id": null,
+  "target": "temperature",
+  "target_name": "Temperatura",
+  "target_unit": "\u00b0C",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.1343463035551338e-07,
+  "test_mae": 11.37061640854514,
+  "test_rmse": 13.167317739315633,
+  "cv_mean_r2": -5.23950819175667e-07,
+  "cv_std_r2": 2.93548616871768e-07,
+  "n_train": 13166902,
+  "n_test": 1462990,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T10:48:54.487372",
+  "model_path": "..\\models\\Palencia\\province\\linearregression_temperature.pkl",
+  "scaler_path": "..\\models\\Palencia\\province\\scaler_temperature.pkl"
+}

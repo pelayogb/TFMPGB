@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_FRIAS_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0006691456917495842,
+  "test_mae": 19.517780300302018,
+  "test_rmse": 23.68612053841694,
+  "cv_mean_r2": -0.0021183252030680722,
+  "cv_std_r2": 0.0029728365533369856,
+  "n_train": 7774,
+  "n_test": 864,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:01:58.794993",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_FRIAS_AGU_0001\\gradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

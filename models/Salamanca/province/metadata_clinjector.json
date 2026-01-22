@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Salamanca",
+  "tank_id": null,
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 1.4688315176814015e-05,
+  "test_mae": 0.05948792184125389,
+  "test_rmse": 0.07027840346777914,
+  "cv_mean_r2": -5.2830107612411584e-05,
+  "cv_std_r2": 4.389341142253266e-05,
+  "n_train": 322624,
+  "n_test": 35848,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:57:03.838825",
+  "model_path": "..\\models\\Salamanca\\province\\randomforest_clinjector.pkl",
+  "scaler_path": null
+}

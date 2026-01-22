@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_UCEVA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00011796094650540212,
+  "test_mae": 2.8029814072726835,
+  "test_rmse": 3.4906012775488295,
+  "cv_mean_r2": -0.002832567867988267,
+  "cv_std_r2": 0.00089553888783715,
+  "n_train": 9652,
+  "n_test": 1073,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:29.988955",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\gradientboosting_flowexitlevel.pkl",
+  "scaler_path": null
+}

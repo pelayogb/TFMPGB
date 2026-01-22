@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_CARCO_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -3.638680748330181e-05,
+  "test_mae": 19.41572554209741,
+  "test_rmse": 23.49291766216832,
+  "cv_mean_r2": -1.555011139275919e-06,
+  "cv_std_r2": 9.73407010996903e-07,
+  "n_train": 887156,
+  "n_test": 98573,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:10:31.887698",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0001\\linearregression_orpexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0001\\scaler_orpexitlevel.pkl"
+}

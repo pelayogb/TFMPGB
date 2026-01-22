@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_BOACA_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -3.7383253603806565e-06,
+  "test_mae": 0.0517376379695634,
+  "test_rmse": 0.06066368417603596,
+  "cv_mean_r2": -3.112361946653319e-05,
+  "cv_std_r2": 2.831438248492669e-05,
+  "n_train": 1261191,
+  "n_test": 140133,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:06:40.503706",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_BOACA_AGU_0001\\histgradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

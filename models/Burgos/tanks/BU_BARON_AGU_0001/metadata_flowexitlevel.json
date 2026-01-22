@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_BARON_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.037595557518241396,
+  "test_mae": 2.3294125148792686,
+  "test_rmse": 2.83577010732873,
+  "cv_mean_r2": -0.013401543241535618,
+  "cv_std_r2": 0.010258307962166766,
+  "n_train": 869,
+  "n_test": 97,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:01:51.430340",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_BARON_AGU_0001\\randomforest_flowexitlevel.pkl",
+  "scaler_path": null
+}

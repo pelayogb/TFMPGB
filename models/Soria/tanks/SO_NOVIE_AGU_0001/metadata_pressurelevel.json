@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_NOVIE_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 8.759921576939611e-05,
+  "test_mae": 1.3317448149213775,
+  "test_rmse": 1.5427756066150584,
+  "cv_mean_r2": -0.0019354890819722303,
+  "cv_std_r2": 0.0005841362045018455,
+  "n_train": 23623,
+  "n_test": 2625,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:32.910816",
+  "model_path": "..\\models\\Soria\\tanks\\SO_NOVIE_AGU_0001\\randomforest_pressurelevel.pkl",
+  "scaler_path": null
+}

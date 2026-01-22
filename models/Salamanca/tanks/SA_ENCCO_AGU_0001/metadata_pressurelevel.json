@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ENCCO_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0017087416102620212,
+  "test_mae": 1.2588708095765353,
+  "test_rmse": 1.4799799756574938,
+  "cv_mean_r2": -0.003917145796113441,
+  "cv_std_r2": 0.0023795772724661047,
+  "n_train": 6871,
+  "n_test": 764,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:37.272196",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\gradientboosting_pressurelevel.pkl",
+  "scaler_path": null
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SAUCE_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0014877120763836515,
+  "test_mae": 0.05056140550237026,
+  "test_rmse": 0.05871403802552698,
+  "cv_mean_r2": -0.003930996617102589,
+  "cv_std_r2": 0.0037956891440921276,
+  "n_train": 9426,
+  "n_test": 1048,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:20.395686",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SAUCE_AGU_0001\\histgradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}

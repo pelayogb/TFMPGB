@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_NAVBU_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.579716396320024,
+  "test_mae": 9.925630334859465,
+  "test_rmse": 28.342396777448055,
+  "cv_mean_r2": 0.5874684056932347,
+  "cv_std_r2": 0.032730368205064406,
+  "n_train": 7909,
+  "n_test": 879,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T12:02:01.130690",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

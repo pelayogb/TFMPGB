@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_REDON_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.004105078836030396,
+  "test_mae": 2.88303125773555,
+  "test_rmse": 3.5964868922210074,
+  "cv_mean_r2": -0.001522773504367536,
+  "cv_std_r2": 0.0021811731589652895,
+  "n_train": 7844,
+  "n_test": 872,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:48.475814",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\scaler_flowexitlevel.pkl"
+}

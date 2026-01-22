@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_ALMAR_AGU_0001",
+  "target": "orpexitlevel",
+  "target_name": "ORP salida",
+  "target_unit": "mV",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0002797203818526439,
+  "test_mae": 18.963392652649055,
+  "test_rmse": 22.97227293317002,
+  "cv_mean_r2": -0.001663776597271327,
+  "cv_std_r2": 0.0013375776653466562,
+  "n_train": 23596,
+  "n_test": 2622,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:10.736077",
+  "model_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\histgradientboosting_orpexitlevel.pkl",
+  "scaler_path": null
+}

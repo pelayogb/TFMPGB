@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_SANTO_AGU_0001",
+  "target": "clinjector",
+  "target_name": "Cloro inyector",
+  "target_unit": "ppm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -7.793910458531172e-05,
+  "test_mae": 0.058935020988501806,
+  "test_rmse": 0.0696366248577958,
+  "cv_mean_r2": -3.677995430726444e-05,
+  "cv_std_r2": 2.6295602370819828e-05,
+  "n_train": 205876,
+  "n_test": 22876,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:35:20.168212",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\linearregression_clinjector.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\scaler_clinjector.pkl"
+}

@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_REDON_AGU_0001",
+  "target": "phexitlevel",
+  "target_name": "pH salida",
+  "target_unit": "-",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 5.194522482521169e-05,
+  "test_mae": 0.514176685495852,
+  "test_rmse": 0.6212996555828784,
+  "cv_mean_r2": -0.005273180902654229,
+  "cv_std_r2": 0.0008326980446345403,
+  "n_train": 7844,
+  "n_test": 872,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:38:46.509080",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\gradientboosting_phexitlevel.pkl",
+  "scaler_path": null
+}

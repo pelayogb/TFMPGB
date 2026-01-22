@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Palencia",
+  "tank_id": "PA_BOACA_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -5.5784545902604066e-06,
+  "test_mae": 2.8185728393164218,
+  "test_rmse": 3.478002230285513,
+  "cv_mean_r2": -1.3742917790837695e-05,
+  "cv_std_r2": 8.076362351501457e-06,
+  "n_train": 1261191,
+  "n_test": 140133,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:06:05.156978",
+  "model_path": "..\\models\\Palencia\\tanks\\PA_BOACA_AGU_0001\\linearregression_flowexitlevel.pkl",
+  "scaler_path": "..\\models\\Palencia\\tanks\\PA_BOACA_AGU_0001\\scaler_flowexitlevel.pkl"
+}

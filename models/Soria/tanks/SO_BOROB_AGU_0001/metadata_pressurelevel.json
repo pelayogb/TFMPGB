@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_BOROB_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0003467708028981331,
+  "test_mae": 1.3230231351613024,
+  "test_rmse": 1.5346484709195356,
+  "cv_mean_r2": -0.0012955303410656428,
+  "cv_std_r2": 0.0008763299618613313,
+  "n_train": 27028,
+  "n_test": 3004,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:40:18.214998",
+  "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\histgradientboosting_pressurelevel.pkl",
+  "scaler_path": null
+}

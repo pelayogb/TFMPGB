@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_MILAN_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.00439312159731875,
+  "test_mae": 105.81319993676128,
+  "test_rmse": 123.54862315318866,
+  "cv_mean_r2": -0.0013740199704792566,
+  "cv_std_r2": 0.0013011345316987744,
+  "n_train": 6676,
+  "n_test": 742,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:38:22.271985",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\scaler_watertanklevel.pkl"
+}

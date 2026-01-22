@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_SANFG_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0015903584588409236,
+  "test_mae": 106.12484047076823,
+  "test_rmse": 121.7538526041266,
+  "cv_mean_r2": -0.0019495394389566379,
+  "cv_std_r2": 0.001943138822319111,
+  "n_train": 8300,
+  "n_test": 923,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:39:06.634596",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_SANFG_AGU_0001\\randomforest_watertanklevel.pkl",
+  "scaler_path": null
+}

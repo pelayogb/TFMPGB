@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Soria",
+  "tank_id": "SO_MOLDU_AGU_0001",
+  "target": "flowexitlevel",
+  "target_name": "Flujo salida",
+  "target_unit": "m\u00b3/h",
+  "model_name": "RandomForest",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0010451906276973677,
+  "test_mae": 1.271598597711268,
+  "test_rmse": 1.587346677272776,
+  "cv_mean_r2": -0.0028202203946390723,
+  "cv_std_r2": 0.0018958988486019212,
+  "n_train": 10035,
+  "n_test": 1115,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:41:11.280441",
+  "model_path": "..\\models\\Soria\\tanks\\SO_MOLDU_AGU_0001\\randomforest_flowexitlevel.pkl",
+  "scaler_path": null
+}

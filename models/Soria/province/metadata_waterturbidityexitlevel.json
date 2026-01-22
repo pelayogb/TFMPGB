@@ -1,0 +1,25 @@
+{
+  "scope_type": "province",
+  "province": "Soria",
+  "tank_id": null,
+  "target": "waterturbidityexitlevel",
+  "target_name": "Turbidez salida",
+  "target_unit": "NTU",
+  "model_name": "HistGradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -4.3704241196707017e-05,
+  "test_mae": 140.1570360097863,
+  "test_rmse": 172.98881211454542,
+  "cv_mean_r2": -0.0001784743848716186,
+  "cv_std_r2": 0.0001508891835176072,
+  "n_train": 308415,
+  "n_test": 34269,
+  "use_scaling": false,
+  "trained_on": "2026-01-02T11:57:42.208220",
+  "model_path": "..\\models\\Soria\\province\\histgradientboosting_waterturbidityexitlevel.pkl",
+  "scaler_path": null
+}

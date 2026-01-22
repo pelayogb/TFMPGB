@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Burgos",
+  "tank_id": "BU_NAVBU_AGU_0001",
+  "target": "pressurelevel",
+  "target_name": "Presi\u00f3n",
+  "target_unit": "bar",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0013261683059804241,
+  "test_mae": 1.3368375766733698,
+  "test_rmse": 1.5431500799262663,
+  "cv_mean_r2": -0.0013182401627037875,
+  "cv_std_r2": 0.0010889325722252224,
+  "n_train": 7909,
+  "n_test": 879,
+  "use_scaling": true,
+  "trained_on": "2026-01-02T12:02:02.638136",
+  "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\linearregression_pressurelevel.pkl",
+  "scaler_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\scaler_pressurelevel.pkl"
+}

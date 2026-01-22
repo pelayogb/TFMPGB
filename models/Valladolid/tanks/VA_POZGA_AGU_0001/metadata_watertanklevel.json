@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Valladolid",
+  "tank_id": "VA_POZGA_AGU_0001",
+  "target": "watertanklevel",
+  "target_name": "Nivel tanque",
+  "target_unit": "cm",
+  "model_name": "LinearRegression",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": -0.0009285950850956848,
+  "test_mae": 106.01851819564297,
+  "test_rmse": 123.13121710055886,
+  "cv_mean_r2": -0.0012965639521516526,
+  "cv_std_r2": 0.0014235908408817767,
+  "n_train": 7365,
+  "n_test": 819,
+  "use_scaling": true,
+  "trained_on": "2025-12-10T11:41:50.856039",
+  "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\linearregression_watertanklevel.pkl",
+  "scaler_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\scaler_watertanklevel.pkl"
+}

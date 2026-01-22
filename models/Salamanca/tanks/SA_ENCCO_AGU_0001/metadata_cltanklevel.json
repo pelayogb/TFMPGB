@@ -1,0 +1,25 @@
+{
+  "scope_type": "tank",
+  "province": "Salamanca",
+  "tank_id": "SA_ENCCO_AGU_0001",
+  "target": "cltanklevel",
+  "target_name": "Cloro tanque",
+  "target_unit": "ppm",
+  "model_name": "GradientBoosting",
+  "features": [
+    "year",
+    "month"
+  ],
+  "n_features": 2,
+  "test_r2": 0.0024676694170702174,
+  "test_mae": 0.04945182889208833,
+  "test_rmse": 0.05841191845062767,
+  "cv_mean_r2": -0.002774125503886471,
+  "cv_std_r2": 0.0021114602854968665,
+  "n_train": 6871,
+  "n_test": 764,
+  "use_scaling": false,
+  "trained_on": "2025-12-10T11:37:38.364778",
+  "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\gradientboosting_cltanklevel.pkl",
+  "scaler_path": null
+}
