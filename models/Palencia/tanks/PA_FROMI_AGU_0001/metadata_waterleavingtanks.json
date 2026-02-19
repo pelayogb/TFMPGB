@@ -19,7 +19,9 @@
   "n_train": 259123,
   "n_test": 28792,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:17:20.642063",
+  "max_feature_correlation": 0.2102520964214749,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:55:00.868258",
   "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

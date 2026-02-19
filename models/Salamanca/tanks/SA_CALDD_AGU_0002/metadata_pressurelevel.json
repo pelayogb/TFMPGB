@@ -19,7 +19,9 @@
   "n_train": 9495,
   "n_test": 1055,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:09.070770",
+  "max_feature_correlation": 0.01147054756387967,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:15.161235",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CALDD_AGU_0002\\gradientboosting_pressurelevel.pkl",
   "scaler_path": null
 }

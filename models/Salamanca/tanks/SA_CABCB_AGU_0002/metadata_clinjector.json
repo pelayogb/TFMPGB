@@ -19,7 +19,9 @@
   "n_train": 9487,
   "n_test": 1055,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:05.384212",
+  "max_feature_correlation": 0.01571854809509888,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:12.249434",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CABCB_AGU_0002\\histgradientboosting_clinjector.pkl",
   "scaler_path": null
 }

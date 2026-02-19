@@ -12,14 +12,16 @@
   ],
   "n_features": 2,
   "test_r2": 0.0022192725974455874,
-  "test_mae": 108.1279088951089,
+  "test_mae": 108.12790889510889,
   "test_rmse": 124.77378141724398,
   "cv_mean_r2": -0.0028826121504087255,
   "cv_std_r2": 0.0026267685361118145,
   "n_train": 9327,
   "n_test": 1037,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:02.932679",
+  "max_feature_correlation": 0.01241720300248755,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:56.885673",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_LUMBR_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

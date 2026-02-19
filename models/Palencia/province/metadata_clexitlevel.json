@@ -19,7 +19,9 @@
   "n_train": 13166902,
   "n_test": 1462990,
   "use_scaling": false,
-  "trained_on": "2026-01-02T10:16:40.483023",
+  "max_feature_correlation": 0.1071864013246934,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T15:52:48.708000",
   "model_path": "..\\models\\Palencia\\province\\histgradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

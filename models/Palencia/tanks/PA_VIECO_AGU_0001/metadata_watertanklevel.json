@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.0008315233251433574,
+  "test_r2": 0.0008315233251431353,
   "test_mae": 105.4531687171185,
-  "test_rmse": 122.94924290978693,
+  "test_rmse": 122.94924290978695,
   "cv_mean_r2": -0.0010399700650510768,
   "cv_std_r2": 0.0007990259038637911,
   "n_train": 40714,
   "n_test": 4524,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:12.027272",
+  "max_feature_correlation": 0.015626857438594637,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:37.561517",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VIECO_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

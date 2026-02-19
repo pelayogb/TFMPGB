@@ -19,7 +19,9 @@
   "n_train": 2808,
   "n_test": 312,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:12:10.953394",
+  "max_feature_correlation": 0.8473315166334299,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:50:32.075702",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0002\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 5194,
   "n_test": 578,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:37:53.762143",
+  "max_feature_correlation": 0.9991800611275924,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:13:49.661789",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_GUADR_AGU_0001\\linearregression_waterleavingtanks.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_GUADR_AGU_0001\\scaler_waterleavingtanks.pkl"
 }

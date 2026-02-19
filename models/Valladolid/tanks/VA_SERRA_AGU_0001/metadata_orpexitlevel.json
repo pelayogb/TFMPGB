@@ -19,7 +19,9 @@
   "n_train": 7353,
   "n_test": 818,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:42:03.183394",
+  "max_feature_correlation": 0.03349363185779726,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:17:09.543883",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\linearregression_orpexitlevel.pkl",
   "scaler_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\scaler_orpexitlevel.pkl"
 }

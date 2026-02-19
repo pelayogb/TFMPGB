@@ -19,7 +19,9 @@
   "n_train": 23568,
   "n_test": 2619,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:40:35.744513",
+  "max_feature_correlation": 0.01182232517761438,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:15:54.127274",
   "model_path": "..\\models\\Soria\\tanks\\SO_CASAR_AGU_0001\\linearregression_clinjector.pkl",
   "scaler_path": "..\\models\\Soria\\tanks\\SO_CASAR_AGU_0001\\scaler_clinjector.pkl"
 }

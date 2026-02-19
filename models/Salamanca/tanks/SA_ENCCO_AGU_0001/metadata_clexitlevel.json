@@ -14,12 +14,14 @@
   "test_r2": -0.0008563819630444947,
   "test_mae": 0.09212542838491995,
   "test_rmse": 0.1087134274184605,
-  "cv_mean_r2": -0.0033627216470121235,
-  "cv_std_r2": 0.0029925512121463014,
+  "cv_mean_r2": -0.0033627216470120793,
+  "cv_std_r2": 0.002992551212146264,
   "n_train": 6871,
   "n_test": 764,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:35.942830",
+  "max_feature_correlation": 0.01132987675608641,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:35.365251",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\randomforest_clexitlevel.pkl",
   "scaler_path": null
 }

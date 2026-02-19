@@ -11,7 +11,7 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.0012200899933692,
+  "test_r2": 0.001220089993369311,
   "test_mae": 0.05096184048182604,
   "test_rmse": 0.05969808824252555,
   "cv_mean_r2": -0.0032397113732279157,
@@ -19,7 +19,9 @@
   "n_train": 9495,
   "n_test": 1055,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:10.385477",
+  "max_feature_correlation": 0.011418279365946101,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:15.867604",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CALDD_AGU_0002\\randomforest_cltanklevel.pkl",
   "scaler_path": null
 }

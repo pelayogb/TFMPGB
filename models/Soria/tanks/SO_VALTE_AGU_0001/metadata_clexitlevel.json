@@ -19,7 +19,9 @@
   "n_train": 21057,
   "n_test": 2340,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:44.630757",
+  "max_feature_correlation": 0.12755489095123296,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:58.731429",
   "model_path": "..\\models\\Soria\\tanks\\SO_VALTE_AGU_0001\\histgradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

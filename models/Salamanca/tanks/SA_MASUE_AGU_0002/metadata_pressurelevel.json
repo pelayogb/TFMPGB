@@ -19,7 +19,9 @@
   "n_train": 7332,
   "n_test": 815,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:15.248110",
+  "max_feature_correlation": 0.03069474823421365,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:06.580951",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0002\\linearregression_pressurelevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0002\\scaler_pressurelevel.pkl"
 }

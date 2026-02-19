@@ -19,7 +19,9 @@
   "n_train": 5570,
   "n_test": 619,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:39:23.249966",
+  "max_feature_correlation": 0.01301978567571897,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:58.711108",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_SOBRA_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_SOBRA_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
 }

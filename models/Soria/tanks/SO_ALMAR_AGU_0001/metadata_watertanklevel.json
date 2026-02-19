@@ -14,12 +14,14 @@
   "test_r2": 0.17202253284165236,
   "test_mae": 2.906418024816442,
   "test_rmse": 3.297011829029027,
-  "cv_mean_r2": 0.1633208218271296,
-  "cv_std_r2": 0.00992677961096754,
+  "cv_mean_r2": 0.16332082182712965,
+  "cv_std_r2": 0.009926779610967548,
   "n_train": 23596,
   "n_test": 2622,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:06.889085",
+  "max_feature_correlation": 0.23027044909720917,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:15:31.427481",
   "model_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

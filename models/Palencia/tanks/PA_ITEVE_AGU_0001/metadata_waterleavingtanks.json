@@ -15,11 +15,13 @@
   "test_mae": 995.1695239378201,
   "test_rmse": 1383.6496111959361,
   "cv_mean_r2": 0.4598603191029085,
-  "cv_std_r2": 0.00048805152842399405,
+  "cv_std_r2": 0.00048805152842400446,
   "n_train": 2140491,
   "n_test": 237833,
   "use_scaling": false,
-  "trained_on": "2025-12-10T10:49:06.074238",
+  "max_feature_correlation": 0.10117326292078081,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:04:02.807396",
   "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

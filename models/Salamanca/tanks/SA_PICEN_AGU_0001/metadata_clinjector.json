@@ -19,7 +19,9 @@
   "n_train": 7335,
   "n_test": 816,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:44.077422",
+  "max_feature_correlation": 0.015102165541294755,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:28.072728",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\gradientboosting_clinjector.pkl",
   "scaler_path": null
 }

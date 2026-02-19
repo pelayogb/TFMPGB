@@ -19,7 +19,9 @@
   "n_train": 7335,
   "n_test": 816,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:42.145492",
+  "max_feature_correlation": 0.011717415192010118,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:26.523259",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\scaler_temperature.pkl"
 }

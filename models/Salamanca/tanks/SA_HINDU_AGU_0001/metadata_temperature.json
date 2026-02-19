@@ -19,7 +19,9 @@
   "n_train": 2888,
   "n_test": 321,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:00.183481",
+  "max_feature_correlation": 0.01704557897841707,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:54.212735",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\histgradientboosting_temperature.pkl",
   "scaler_path": null
 }

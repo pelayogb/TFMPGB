@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.1739189759272255,
+  "test_r2": 0.1739189759272256,
   "test_mae": 0.14496396870080439,
   "test_rmse": 0.20612561739990073,
-  "cv_mean_r2": 0.21246611475561586,
-  "cv_std_r2": 0.024080972738859185,
+  "cv_mean_r2": 0.2124661147556159,
+  "cv_std_r2": 0.02408097273885911,
   "n_train": 23625,
   "n_test": 2626,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:45.736337",
+  "max_feature_correlation": 0.21547574364604183,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:16:05.368976",
   "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\randomforest_clexitlevel.pkl",
   "scaler_path": null
 }

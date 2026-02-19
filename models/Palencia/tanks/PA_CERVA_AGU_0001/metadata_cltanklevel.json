@@ -19,7 +19,9 @@
   "n_train": 950079,
   "n_test": 105565,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:15:32.604729",
+  "max_feature_correlation": 0.08487868152414962,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:52:57.477183",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CERVA_AGU_0001\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

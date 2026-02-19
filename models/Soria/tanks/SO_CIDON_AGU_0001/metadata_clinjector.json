@@ -19,7 +19,9 @@
   "n_train": 23625,
   "n_test": 2626,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:40:50.553741",
+  "max_feature_correlation": 0.017846549530108932,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:16:08.336268",
   "model_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\linearregression_clinjector.pkl",
   "scaler_path": "..\\models\\Soria\\tanks\\SO_CIDON_AGU_0001\\scaler_clinjector.pkl"
 }

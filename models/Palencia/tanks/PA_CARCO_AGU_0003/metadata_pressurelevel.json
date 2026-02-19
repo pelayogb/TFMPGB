@@ -19,7 +19,9 @@
   "n_train": 396,
   "n_test": 44,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:12:12.886794",
+  "max_feature_correlation": 0.06682563214151006,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:50:33.510253",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\gradientboosting_pressurelevel.pkl",
   "scaler_path": null
 }

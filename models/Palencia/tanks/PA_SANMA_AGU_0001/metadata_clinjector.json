@@ -19,7 +19,9 @@
   "n_train": 1321,
   "n_test": 147,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:34:34.831619",
+  "max_feature_correlation": 0.028021324067338173,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:09.512873",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\histgradientboosting_clinjector.pkl",
   "scaler_path": null
 }

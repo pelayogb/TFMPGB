@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.05209247921171134,
-  "test_mae": 132.93071939167243,
-  "test_rmse": 152.0382011548733,
-  "cv_mean_r2": -0.05595623884099314,
-  "cv_std_r2": 0.036230179403291415,
+  "test_r2": 0.05209247921171167,
+  "test_mae": 132.9307193916724,
+  "test_rmse": 152.03820115487326,
+  "cv_mean_r2": -0.05595623884099341,
+  "cv_std_r2": 0.036230179403291624,
   "n_train": 396,
   "n_test": 44,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:12:12.524544",
+  "max_feature_correlation": 0.06774669687820407,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:50:33.178944",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\randomforest_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

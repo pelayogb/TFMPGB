@@ -19,7 +19,9 @@
   "n_train": 7951,
   "n_test": 884,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:56.249457",
+  "max_feature_correlation": 0.014260165754812332,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:05.653593",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BERME_AGU_0001\\linearregression_watertanklevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_BERME_AGU_0001\\scaler_watertanklevel.pkl"
 }

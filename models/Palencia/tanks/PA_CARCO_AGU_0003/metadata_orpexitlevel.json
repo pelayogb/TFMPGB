@@ -19,7 +19,9 @@
   "n_train": 396,
   "n_test": 44,
   "use_scaling": true,
-  "trained_on": "2026-01-02T12:12:13.057017",
+  "max_feature_correlation": 0.06621468965076174,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:50:33.603789",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\linearregression_orpexitlevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0003\\scaler_orpexitlevel.pkl"
 }

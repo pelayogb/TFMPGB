@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.23263681494204658,
+  "test_r2": 0.23263681494204647,
   "test_mae": 0.09442861046544633,
-  "test_rmse": 0.2057336052072183,
-  "cv_mean_r2": 0.177059494363082,
-  "cv_std_r2": 0.026494325867705976,
+  "test_rmse": 0.20573360520721834,
+  "cv_mean_r2": 0.17705949436308197,
+  "cv_std_r2": 0.026494325867705962,
   "n_train": 21751,
   "n_test": 2417,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:22.858570",
+  "max_feature_correlation": 0.11781033497731674,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:15:44.533337",
   "model_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

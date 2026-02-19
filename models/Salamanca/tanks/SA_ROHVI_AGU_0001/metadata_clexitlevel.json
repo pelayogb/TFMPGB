@@ -19,7 +19,9 @@
   "n_train": 8230,
   "n_test": 915,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:51.373487",
+  "max_feature_correlation": 0.021859189179098546,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:34.242043",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\linearregression_clexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\scaler_clexitlevel.pkl"
 }

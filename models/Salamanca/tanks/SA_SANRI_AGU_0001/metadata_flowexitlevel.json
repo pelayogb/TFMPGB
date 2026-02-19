@@ -19,7 +19,9 @@
   "n_train": 8023,
   "n_test": 892,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:39:14.608751",
+  "max_feature_correlation": 0.010691179612788041,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:51.051709",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_SANRI_AGU_0001\\linearregression_flowexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_SANRI_AGU_0001\\scaler_flowexitlevel.pkl"
 }

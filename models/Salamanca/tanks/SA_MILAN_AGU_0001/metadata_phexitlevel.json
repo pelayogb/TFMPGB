@@ -14,12 +14,14 @@
   "test_r2": -0.000744937150196856,
   "test_mae": 0.4938139439776644,
   "test_rmse": 0.5961053968400236,
-  "cv_mean_r2": -0.001906868687475627,
-  "cv_std_r2": 0.0033918614869552634,
+  "cv_mean_r2": -0.0019068686874755825,
+  "cv_std_r2": 0.0033918614869551784,
   "n_train": 6676,
   "n_test": 742,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:23.067030",
+  "max_feature_correlation": 0.029279246554428765,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:13.242853",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\randomforest_phexitlevel.pkl",
   "scaler_path": null
 }

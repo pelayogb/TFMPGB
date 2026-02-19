@@ -19,7 +19,9 @@
   "n_train": 6871,
   "n_test": 764,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:37:36.232716",
+  "max_feature_correlation": 0.016823489795892994,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:35.656546",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\linearregression_phexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\scaler_phexitlevel.pkl"
 }

@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.5550439704436694,
+  "test_r2": 0.5550439704436695,
   "test_mae": 164.78216807596905,
-  "test_rmse": 241.8519686701847,
+  "test_rmse": 241.85196867018468,
   "cv_mean_r2": 0.5534333366384591,
   "cv_std_r2": 0.0020475239784352706,
   "n_train": 609229,
   "n_test": 67693,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:45:28.006569",
+  "max_feature_correlation": 0.14701057047391816,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:21:16.997008",
   "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

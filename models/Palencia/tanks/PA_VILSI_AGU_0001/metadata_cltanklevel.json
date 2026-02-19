@@ -19,7 +19,9 @@
   "n_train": 3798,
   "n_test": 423,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:29.974764",
+  "max_feature_correlation": 0.01180740712399199,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:49.362441",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VILSI_AGU_0001\\linearregression_cltanklevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_VILSI_AGU_0001\\scaler_cltanklevel.pkl"
 }

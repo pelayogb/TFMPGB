@@ -12,14 +12,16 @@
   ],
   "n_features": 2,
   "test_r2": -0.00341407750541034,
-  "test_mae": 104.15338612478213,
+  "test_mae": 104.1533861247821,
   "test_rmse": 121.5537434551309,
   "cv_mean_r2": -0.0008070080414159575,
   "cv_std_r2": 0.0016728237344524025,
   "n_train": 5734,
   "n_test": 638,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:31.976494",
+  "max_feature_correlation": 0.02576606700725643,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:51.225027",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

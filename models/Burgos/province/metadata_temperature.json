@@ -19,7 +19,7 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": true,
-  "trained_on": "2026-01-02T09:58:58.438291",
+  "trained_on": "2026-02-19T07:48:10.486652",
   "model_path": "..\\models\\Burgos\\province\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Burgos\\province\\scaler_temperature.pkl"
 }

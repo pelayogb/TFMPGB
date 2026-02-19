@@ -19,7 +19,9 @@
   "n_train": 6421,
   "n_test": 714,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:19.320412",
+  "max_feature_correlation": 0.01795173593934237,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:10.367889",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\scaler_temperature.pkl"
 }

@@ -14,12 +14,14 @@
   "test_r2": -0.00328261435554289,
   "test_mae": 19.981602826315,
   "test_rmse": 24.621297158242157,
-  "cv_mean_r2": -0.007150386503854822,
-  "cv_std_r2": 0.0049713147157314464,
+  "cv_mean_r2": -0.007150386503854777,
+  "cv_std_r2": 0.00497131471573143,
   "n_train": 7909,
   "n_test": 879,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:02:03.085662",
+  "max_feature_correlation": 0.018007336164441477,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:36.468661",
   "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\randomforest_orpexitlevel.pkl",
   "scaler_path": null
 }

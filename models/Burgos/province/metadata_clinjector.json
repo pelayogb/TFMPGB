@@ -19,7 +19,7 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": false,
-  "trained_on": "2026-01-02T09:59:03.062453",
+  "trained_on": "2026-02-19T07:48:15.229559",
   "model_path": "..\\models\\Burgos\\province\\histgradientboosting_clinjector.pkl",
   "scaler_path": null
 }

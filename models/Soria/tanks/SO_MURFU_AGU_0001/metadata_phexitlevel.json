@@ -19,7 +19,9 @@
   "n_train": 22536,
   "n_test": 2504,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:41:23.400775",
+  "max_feature_correlation": 0.012102042196128879,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:16:41.268983",
   "model_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\linearregression_phexitlevel.pkl",
   "scaler_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\scaler_phexitlevel.pkl"
 }

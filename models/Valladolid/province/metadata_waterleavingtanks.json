@@ -19,7 +19,9 @@
   "n_train": 29431,
   "n_test": 3271,
   "use_scaling": true,
-  "trained_on": "2026-01-02T11:58:42.633987",
+  "max_feature_correlation": 0.0322421322004307,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:43:13.997868",
   "model_path": "..\\models\\Valladolid\\province\\linearregression_waterleavingtanks.pkl",
   "scaler_path": "..\\models\\Valladolid\\province\\scaler_waterleavingtanks.pkl"
 }

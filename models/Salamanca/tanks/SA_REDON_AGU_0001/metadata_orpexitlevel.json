@@ -19,7 +19,9 @@
   "n_train": 7844,
   "n_test": 872,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:48.140138",
+  "max_feature_correlation": 0.01170254446426214,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:31.580013",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\linearregression_orpexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\scaler_orpexitlevel.pkl"
 }

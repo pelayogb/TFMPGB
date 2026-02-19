@@ -19,7 +19,9 @@
   "n_train": 9652,
   "n_test": 1073,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:30.470642",
+  "max_feature_correlation": 0.010665058980347128,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:15:05.211682",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\randomforest_cltanklevel.pkl",
   "scaler_path": null
 }

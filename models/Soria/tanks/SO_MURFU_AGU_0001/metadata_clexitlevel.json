@@ -19,7 +19,9 @@
   "n_train": 22536,
   "n_test": 2504,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:22.804476",
+  "max_feature_correlation": 0.1343938142876655,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:40.626764",
   "model_path": "..\\models\\Soria\\tanks\\SO_MURFU_AGU_0001\\histgradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

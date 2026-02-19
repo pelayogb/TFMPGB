@@ -19,7 +19,9 @@
   "n_train": 1321,
   "n_test": 147,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:34:33.760369",
+  "max_feature_correlation": 0.04930570409511992,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:08.259273",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\linearregression_pressurelevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\scaler_pressurelevel.pkl"
 }

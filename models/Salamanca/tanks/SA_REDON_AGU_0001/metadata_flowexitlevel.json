@@ -19,7 +19,9 @@
   "n_train": 7844,
   "n_test": 872,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:48.475814",
+  "max_feature_correlation": 0.011740803021035185,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:31.887310",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\linearregression_flowexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_REDON_AGU_0001\\scaler_flowexitlevel.pkl"
 }

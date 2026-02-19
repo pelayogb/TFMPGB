@@ -19,7 +19,9 @@
   "n_train": 23568,
   "n_test": 2619,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:36.667832",
+  "max_feature_correlation": 0.2953450916107237,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:15:55.685006",
   "model_path": "..\\models\\Soria\\tanks\\SO_CASAR_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

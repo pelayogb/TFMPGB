@@ -19,7 +19,9 @@
   "n_train": 7774,
   "n_test": 864,
   "use_scaling": true,
-  "trained_on": "2026-01-02T12:01:57.718575",
+  "max_feature_correlation": 0.021623172049371652,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:32.857078",
   "model_path": "..\\models\\Burgos\\tanks\\BU_FRIAS_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
   "scaler_path": "..\\models\\Burgos\\tanks\\BU_FRIAS_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
 }

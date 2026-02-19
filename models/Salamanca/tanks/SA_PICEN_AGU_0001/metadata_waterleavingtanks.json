@@ -15,11 +15,13 @@
   "test_mae": 304.6305069505048,
   "test_rmse": 771.6658764830016,
   "cv_mean_r2": 0.7472249400577873,
-  "cv_std_r2": 0.02388679628376864,
+  "cv_std_r2": 0.023886796283768632,
   "n_train": 7335,
   "n_test": 816,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:44.521793",
+  "max_feature_correlation": 0.5008420464839949,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:14:28.624859",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PICEN_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

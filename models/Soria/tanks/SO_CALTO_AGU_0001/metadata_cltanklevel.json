@@ -19,7 +19,9 @@
   "n_train": 21751,
   "n_test": 2417,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:27.556973",
+  "max_feature_correlation": 0.4928502218945163,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:15:48.037015",
   "model_path": "..\\models\\Soria\\tanks\\SO_CALTO_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

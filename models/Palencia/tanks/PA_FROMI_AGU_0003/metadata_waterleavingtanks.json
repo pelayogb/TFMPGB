@@ -19,7 +19,9 @@
   "n_train": 136588,
   "n_test": 15177,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:17:58.958021",
+  "max_feature_correlation": 0.34156062844494806,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:55:08.210182",
   "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0003\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

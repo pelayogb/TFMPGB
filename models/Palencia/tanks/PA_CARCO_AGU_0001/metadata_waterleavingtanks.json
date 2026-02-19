@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.7154350468589107,
-  "test_mae": 1575.010531795274,
+  "test_r2": 0.7154350468589106,
+  "test_mae": 1575.0105317952743,
   "test_rmse": 2963.6678959145847,
   "cv_mean_r2": 0.7067823858001889,
-  "cv_std_r2": 0.0019124206673625018,
+  "cv_std_r2": 0.0019124206673624346,
   "n_train": 887156,
   "n_test": 98573,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:12:06.225461",
+  "max_feature_correlation": 0.29473098665235664,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:50:27.135564",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

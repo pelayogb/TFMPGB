@@ -19,7 +19,9 @@
   "n_train": 15977,
   "n_test": 1776,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:43.217905",
+  "max_feature_correlation": 0.7882019963387303,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:01.194619",
   "model_path": "..\\models\\Soria\\tanks\\SO_CASRO_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

@@ -33,7 +33,7 @@
       ]
     }
   },
-  "trained_on": "2025-12-10T11:45:34.335496",
+  "trained_on": "2026-02-19T18:21:23.110632",
   "kmeans_path": "..\\models\\Valladolid\\clustering\\kmeans_model.pkl",
   "scaler_path": "..\\models\\Valladolid\\clustering\\cluster_scaler.pkl",
   "pca_path": "..\\models\\Valladolid\\clustering\\pca_model.pkl"

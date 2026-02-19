@@ -19,7 +19,9 @@
   "n_train": 23697,
   "n_test": 2634,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:57.669306",
+  "max_feature_correlation": 0.0931327310583506,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:15.121602",
   "model_path": "..\\models\\Soria\\tanks\\SO_COVAL_AGU_0001\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

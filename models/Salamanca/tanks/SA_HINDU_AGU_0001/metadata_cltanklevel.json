@@ -19,7 +19,9 @@
   "n_train": 2888,
   "n_test": 321,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:01.184602",
+  "max_feature_correlation": 0.03225651150031743,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:55.126065",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 4181,
   "n_test": 465,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:24.591278",
+  "max_feature_correlation": 0.027852507828952062,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:44.872185",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\linearregression_flowexitlevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\scaler_flowexitlevel.pkl"
 }

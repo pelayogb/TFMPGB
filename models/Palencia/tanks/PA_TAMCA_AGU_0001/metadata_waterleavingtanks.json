@@ -19,7 +19,9 @@
   "n_train": 200983,
   "n_test": 22332,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:10.027076",
+  "max_feature_correlation": 0.40130948554662327,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:12:34.180238",
   "model_path": "..\\models\\Palencia\\tanks\\PA_TAMCA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

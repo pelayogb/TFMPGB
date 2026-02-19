@@ -19,7 +19,9 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": true,
-  "trained_on": "2026-01-02T09:58:56.749019",
+  "max_feature_correlation": 0.010184868940884965,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T15:39:10.809400",
   "model_path": "..\\models\\Burgos\\province\\linearregression_phexitlevel.pkl",
   "scaler_path": "..\\models\\Burgos\\province\\scaler_phexitlevel.pkl"
 }

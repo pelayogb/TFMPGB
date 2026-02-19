@@ -19,7 +19,9 @@
   "n_train": 8230,
   "n_test": 915,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:52.464827",
+  "max_feature_correlation": 0.015424954001889344,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:35.265567",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_ROHVI_AGU_0001\\scaler_temperature.pkl"
 }

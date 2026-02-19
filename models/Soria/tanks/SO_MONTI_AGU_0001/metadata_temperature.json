@@ -19,7 +19,9 @@
   "n_train": 26257,
   "n_test": 2918,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:41:16.765445",
+  "max_feature_correlation": 0.011900643260380709,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:16:34.356776",
   "model_path": "..\\models\\Soria\\tanks\\SO_MONTI_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Soria\\tanks\\SO_MONTI_AGU_0001\\scaler_temperature.pkl"
 }

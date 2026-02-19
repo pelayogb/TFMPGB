@@ -19,7 +19,9 @@
   "n_train": 6871,
   "n_test": 764,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:39.019432",
+  "max_feature_correlation": 0.24474238462271553,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:13:38.699196",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

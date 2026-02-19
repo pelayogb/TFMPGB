@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": -0.0009900295788003444,
+  "test_r2": -0.0009900295788005664,
   "test_mae": 141.95284696743394,
-  "test_rmse": 170.88574414353815,
+  "test_rmse": 170.88574414353818,
   "cv_mean_r2": -0.002263587803991407,
   "cv_std_r2": 0.003470614396919976,
   "n_train": 6048,
   "n_test": 673,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:27.881018",
+  "max_feature_correlation": 0.012769020745700408,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:28.877403",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0002\\randomforest_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

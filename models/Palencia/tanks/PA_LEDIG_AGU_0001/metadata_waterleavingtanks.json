@@ -19,7 +19,9 @@
   "n_train": 2570,
   "n_test": 286,
   "use_scaling": false,
-  "trained_on": "2025-12-10T10:49:54.641334",
+  "max_feature_correlation": 0.8623969499784666,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:04:19.398898",
   "model_path": "..\\models\\Palencia\\tanks\\PA_LEDIG_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

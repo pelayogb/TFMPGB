@@ -19,7 +19,9 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": false,
-  "trained_on": "2026-01-02T09:58:52.537267",
+  "max_feature_correlation": 0.14127657510558222,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T15:39:09.553126",
   "model_path": "..\\models\\Burgos\\province\\gradientboosting_watertanklevel.pkl",
   "scaler_path": null
 }

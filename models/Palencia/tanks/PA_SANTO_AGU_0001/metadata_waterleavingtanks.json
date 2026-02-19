@@ -19,7 +19,9 @@
   "n_train": 205876,
   "n_test": 22876,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:35:25.635570",
+  "max_feature_correlation": 0.3580021094866644,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:12:25.361344",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANTO_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

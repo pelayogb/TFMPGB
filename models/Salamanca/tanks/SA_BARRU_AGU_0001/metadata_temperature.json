@@ -19,7 +19,9 @@
   "n_train": 6764,
   "n_test": 752,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:53.077929",
+  "max_feature_correlation": 0.019615176642328192,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:02.904823",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BARRU_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_BARRU_AGU_0001\\scaler_temperature.pkl"
 }

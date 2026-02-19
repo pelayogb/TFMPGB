@@ -19,7 +19,7 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": true,
-  "trained_on": "2026-01-02T09:58:59.426372",
+  "trained_on": "2026-02-19T07:48:11.451609",
   "model_path": "..\\models\\Burgos\\province\\linearregression_pressurelevel.pkl",
   "scaler_path": "..\\models\\Burgos\\province\\scaler_pressurelevel.pkl"
 }

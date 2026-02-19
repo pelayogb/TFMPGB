@@ -19,7 +19,9 @@
   "n_train": 7596,
   "n_test": 845,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:37:23.435029",
+  "max_feature_correlation": 0.018267872361865632,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:25.498448",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CERPE_AGU_0001\\scaler_temperature.pkl"
 }

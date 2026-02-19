@@ -19,7 +19,9 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": false,
-  "trained_on": "2026-01-02T09:59:04.043862",
+  "max_feature_correlation": 0.17925227241625655,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T15:39:15.581586",
   "model_path": "..\\models\\Burgos\\province\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

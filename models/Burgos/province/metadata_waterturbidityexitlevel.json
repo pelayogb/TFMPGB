@@ -19,7 +19,7 @@
   "n_train": 40184,
   "n_test": 4465,
   "use_scaling": true,
-  "trained_on": "2026-01-02T09:58:57.574617",
+  "trained_on": "2026-02-19T07:48:08.465445",
   "model_path": "..\\models\\Burgos\\province\\linearregression_waterturbidityexitlevel.pkl",
   "scaler_path": "..\\models\\Burgos\\province\\scaler_waterturbidityexitlevel.pkl"
 }

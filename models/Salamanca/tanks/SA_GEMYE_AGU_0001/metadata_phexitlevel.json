@@ -14,12 +14,14 @@
   "test_r2": 0.0025816194008708715,
   "test_mae": 0.5074364546441057,
   "test_rmse": 0.6166760075536742,
-  "cv_mean_r2": -0.0033065798899938326,
-  "cv_std_r2": 0.003314146121346032,
+  "cv_mean_r2": -0.0033065798899937437,
+  "cv_std_r2": 0.0033141461213459615,
   "n_train": 8392,
   "n_test": 933,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:46.109289",
+  "max_feature_correlation": 0.018232020600490912,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:42.407431",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\randomforest_phexitlevel.pkl",
   "scaler_path": null
 }

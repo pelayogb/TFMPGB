@@ -19,7 +19,9 @@
   "n_train": 609229,
   "n_test": 67693,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:44:53.322462",
+  "max_feature_correlation": 0.017384042871686815,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:20:33.617381",
   "model_path": "..\\models\\\u00c1vila\\tanks\\AV_MEDVO_CA_0001\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

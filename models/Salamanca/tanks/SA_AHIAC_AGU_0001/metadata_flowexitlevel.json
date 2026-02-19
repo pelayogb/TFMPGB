@@ -19,7 +19,9 @@
   "n_train": 5734,
   "n_test": 638,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:34.544031",
+  "max_feature_correlation": 0.016745243409947375,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:52.998956",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_AHIAC_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
   "scaler_path": null
 }

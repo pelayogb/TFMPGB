@@ -19,7 +19,9 @@
   "n_train": 7774,
   "n_test": 864,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:01:58.794993",
+  "max_feature_correlation": 0.015365748502459453,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:34.016503",
   "model_path": "..\\models\\Burgos\\tanks\\BU_FRIAS_AGU_0001\\gradientboosting_orpexitlevel.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 7356,
   "n_test": 818,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:42:09.008940",
+  "max_feature_correlation": 0.017680064380791435,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:17:12.418407",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\linearregression_cltanklevel.pkl",
   "scaler_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\scaler_cltanklevel.pkl"
 }

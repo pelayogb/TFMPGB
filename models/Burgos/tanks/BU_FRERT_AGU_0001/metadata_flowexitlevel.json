@@ -19,7 +19,9 @@
   "n_train": 7844,
   "n_test": 872,
   "use_scaling": true,
-  "trained_on": "2026-01-02T12:01:55.157409",
+  "max_feature_correlation": 0.024782148170042248,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:31.627539",
   "model_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\linearregression_flowexitlevel.pkl",
   "scaler_path": "..\\models\\Burgos\\tanks\\BU_FRERT_AGU_0001\\scaler_flowexitlevel.pkl"
 }

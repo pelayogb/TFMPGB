@@ -19,7 +19,9 @@
   "n_train": 2140491,
   "n_test": 237833,
   "use_scaling": false,
-  "trained_on": "2026-01-02T21:50:03.623637",
+  "max_feature_correlation": 0.0548598541201488,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:00:39.259289",
   "model_path": "..\\models\\Palencia\\tanks\\PA_ITEVE_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

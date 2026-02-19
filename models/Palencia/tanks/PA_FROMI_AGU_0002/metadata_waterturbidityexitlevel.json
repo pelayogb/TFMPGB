@@ -19,7 +19,9 @@
   "n_train": 70985,
   "n_test": 7888,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:17:23.910320",
+  "max_feature_correlation": 0.05335783510320222,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:55:02.253090",
   "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0002\\histgradientboosting_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

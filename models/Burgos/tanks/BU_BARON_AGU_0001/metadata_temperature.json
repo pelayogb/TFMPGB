@@ -19,7 +19,9 @@
   "n_train": 869,
   "n_test": 97,
   "use_scaling": true,
-  "trained_on": "2026-01-02T12:01:50.806300",
+  "max_feature_correlation": 0.019789452521428337,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:29.062378",
   "model_path": "..\\models\\Burgos\\tanks\\BU_BARON_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Burgos\\tanks\\BU_BARON_AGU_0001\\scaler_temperature.pkl"
 }

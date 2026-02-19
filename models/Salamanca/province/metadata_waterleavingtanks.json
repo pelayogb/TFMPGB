@@ -19,7 +19,9 @@
   "n_train": 322624,
   "n_test": 35848,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:57:10.978320",
+  "max_feature_correlation": 0.12090576779995153,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:41:38.883540",
   "model_path": "..\\models\\Salamanca\\province\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

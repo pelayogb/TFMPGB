@@ -19,7 +19,9 @@
   "n_train": 4830,
   "n_test": 537,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:37:31.543970",
+  "max_feature_correlation": 0.025913368217385744,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:31.889570",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\linearregression_clexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\scaler_clexitlevel.pkl"
 }

@@ -19,7 +19,9 @@
   "n_train": 5062,
   "n_test": 563,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:38.589829",
+  "max_feature_correlation": 0.017657907114941886,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:23.547099",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\linearregression_flowexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\scaler_flowexitlevel.pkl"
 }

@@ -14,12 +14,14 @@
   "test_r2": 0.004527672858067655,
   "test_mae": 110.47611471021882,
   "test_rmse": 126.21106827574643,
-  "cv_mean_r2": -0.003910251962137878,
-  "cv_std_r2": 0.00639986149333717,
+  "cv_mean_r2": -0.00391025196213779,
+  "cv_std_r2": 0.006399861493337179,
   "n_train": 5496,
   "n_test": 611,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:41.856198",
+  "max_feature_correlation": 0.013596818235533402,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:57.863908",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BANOB_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

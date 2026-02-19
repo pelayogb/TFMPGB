@@ -19,7 +19,9 @@
   "n_train": 26257,
   "n_test": 2918,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:19.530041",
+  "max_feature_correlation": 0.051105153933061614,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:37.063569",
   "model_path": "..\\models\\Soria\\tanks\\SO_MONTI_AGU_0001\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

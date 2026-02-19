@@ -19,7 +19,9 @@
   "n_train": 23596,
   "n_test": 2622,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:12.076897",
+  "max_feature_correlation": 0.21874292964282377,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:15:35.484541",
   "model_path": "..\\models\\Soria\\tanks\\SO_ALMAR_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

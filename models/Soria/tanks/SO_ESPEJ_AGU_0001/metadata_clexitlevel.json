@@ -19,7 +19,9 @@
   "n_train": 26327,
   "n_test": 2926,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:01.797123",
+  "max_feature_correlation": 0.07049515558978231,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:21.965234",
   "model_path": "..\\models\\Soria\\tanks\\SO_ESPEJ_AGU_0001\\gradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

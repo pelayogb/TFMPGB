@@ -19,7 +19,9 @@
   "n_train": 4181,
   "n_test": 465,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:22.800591",
+  "max_feature_correlation": 0.014438703835543082,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:42.838847",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
 }

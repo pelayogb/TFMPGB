@@ -19,7 +19,9 @@
   "n_train": 5062,
   "n_test": 563,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:37.371034",
+  "max_feature_correlation": 0.013253937743285293,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:22.791637",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\linearregression_waterturbidityexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\scaler_waterturbidityexitlevel.pkl"
 }

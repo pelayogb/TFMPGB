@@ -19,7 +19,9 @@
   "n_train": 119539,
   "n_test": 13283,
   "use_scaling": false,
-  "trained_on": "2025-12-10T10:50:24.363405",
+  "max_feature_correlation": 0.32874671174951275,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:04:27.776979",
   "model_path": "..\\models\\Palencia\\tanks\\PA_MORAT_AGU_0001\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

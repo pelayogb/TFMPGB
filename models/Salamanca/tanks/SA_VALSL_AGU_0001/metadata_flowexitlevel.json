@@ -15,11 +15,13 @@
   "test_mae": 2.743504686330433,
   "test_rmse": 3.4192277503634254,
   "cv_mean_r2": -0.0034108595850008694,
-  "cv_std_r2": 0.0008391615912612519,
+  "cv_std_r2": 0.0008391615912612859,
   "n_train": 9255,
   "n_test": 1029,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:41.357522",
+  "max_feature_correlation": 0.015524019610532486,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:15:12.272628",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_VALSL_AGU_0001\\randomforest_flowexitlevel.pkl",
   "scaler_path": null
 }

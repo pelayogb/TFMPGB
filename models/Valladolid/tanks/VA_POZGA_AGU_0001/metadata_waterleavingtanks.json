@@ -19,7 +19,9 @@
   "n_train": 7365,
   "n_test": 819,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:54.739264",
+  "max_feature_correlation": 0.532370537543125,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:17:04.348137",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

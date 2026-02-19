@@ -14,12 +14,14 @@
   "test_r2": 0.03766837765005371,
   "test_mae": 2.566699736568681,
   "test_rmse": 3.277372931447952,
-  "cv_mean_r2": 0.0367082436739812,
-  "cv_std_r2": 0.001505965552032851,
+  "cv_mean_r2": 0.03670824367398118,
+  "cv_std_r2": 0.0015059655520328712,
   "n_train": 308415,
   "n_test": 34269,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:57:19.840496",
+  "max_feature_correlation": 0.1579970265052773,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:41:57.253298",
   "model_path": "..\\models\\Soria\\province\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

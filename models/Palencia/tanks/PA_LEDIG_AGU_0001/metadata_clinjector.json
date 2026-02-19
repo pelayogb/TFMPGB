@@ -19,7 +19,9 @@
   "n_train": 2570,
   "n_test": 286,
   "use_scaling": true,
-  "trained_on": "2025-12-10T10:49:54.156224",
+  "max_feature_correlation": 0.015172417075241832,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:04:18.866845",
   "model_path": "..\\models\\Palencia\\tanks\\PA_LEDIG_AGU_0001\\linearregression_clinjector.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_LEDIG_AGU_0001\\scaler_clinjector.pkl"
 }

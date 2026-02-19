@@ -19,7 +19,9 @@
   "n_train": 9372,
   "n_test": 1042,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:58.305849",
+  "max_feature_correlation": 0.012952645625041798,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:39.014901",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ROLLA_AGU_0001\\gradientboosting_orpexitlevel.pkl",
   "scaler_path": null
 }

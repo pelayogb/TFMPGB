@@ -19,7 +19,9 @@
   "n_train": 609229,
   "n_test": 67693,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:01:15.508981",
+  "max_feature_correlation": 0.017384042871686815,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:46:41.413860",
   "model_path": "..\\models\\\u00c1vila\\province\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 8392,
   "n_test": 933,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:37:47.267716",
+  "max_feature_correlation": 0.010650126190038665,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:43.899603",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\linearregression_pressurelevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\scaler_pressurelevel.pkl"
 }

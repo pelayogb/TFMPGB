@@ -19,7 +19,9 @@
   "n_train": 6764,
   "n_test": 752,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:54.368981",
+  "max_feature_correlation": 0.017832703513028764,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:03.632750",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BARRU_AGU_0001\\gradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

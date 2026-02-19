@@ -11,15 +11,17 @@
     "month"
   ],
   "n_features": 2,
-  "test_r2": 0.00022777822753239363,
+  "test_r2": 0.00022777822753217158,
   "test_mae": 104.74162893743052,
-  "test_rmse": 122.24151836533403,
-  "cv_mean_r2": -0.0023165970845101746,
-  "cv_std_r2": 0.00211598368103721,
+  "test_rmse": 122.24151836533404,
+  "cv_mean_r2": -0.0023165970845100857,
+  "cv_std_r2": 0.002115983681037095,
   "n_train": 7326,
   "n_test": 815,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:12.547985",
+  "max_feature_correlation": 0.01827730109259527,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:17.986332",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CANAB_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

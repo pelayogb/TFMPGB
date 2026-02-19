@@ -19,7 +19,9 @@
   "n_train": 4181,
   "n_test": 465,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:21.427627",
+  "max_feature_correlation": 0.010627460321758172,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:40.988996",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\linearregression_watertanklevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\scaler_watertanklevel.pkl"
 }

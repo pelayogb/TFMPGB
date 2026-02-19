@@ -13,13 +13,15 @@
   "n_features": 2,
   "test_r2": 0.7278877372339194,
   "test_mae": 4.044459016252105,
-  "test_rmse": 21.539972059236888,
+  "test_rmse": 21.53997205923689,
   "cv_mean_r2": 0.6595747511481178,
-  "cv_std_r2": 0.09153696680360522,
+  "cv_std_r2": 0.09153696680360521,
   "n_train": 3798,
   "n_test": 423,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:27.236817",
+  "max_feature_correlation": 0.4319042145206453,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:12:47.266909",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VILSI_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

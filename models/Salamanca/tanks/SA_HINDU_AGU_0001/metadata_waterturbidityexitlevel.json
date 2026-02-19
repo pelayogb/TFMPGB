@@ -14,12 +14,14 @@
   "test_r2": -0.001824428704607639,
   "test_mae": 139.23562031828573,
   "test_rmse": 175.67587821936675,
-  "cv_mean_r2": -0.005722238745696972,
-  "cv_std_r2": 0.004823280756522821,
+  "cv_mean_r2": -0.005722238745696884,
+  "cv_std_r2": 0.004823280756522741,
   "n_train": 2888,
   "n_test": 321,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:59.907672",
+  "max_feature_correlation": 0.011677572614215884,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:53.876530",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_HINDU_AGU_0001\\randomforest_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

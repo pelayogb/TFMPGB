@@ -19,7 +19,9 @@
   "n_train": 7356,
   "n_test": 818,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:42:09.833766",
+  "max_feature_correlation": 0.8184936716219363,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:17:12.962733",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0002\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

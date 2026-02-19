@@ -73,7 +73,7 @@
       ]
     }
   },
-  "trained_on": "2025-12-10T11:45:32.718851",
+  "trained_on": "2026-02-19T18:21:21.725382",
   "kmeans_path": "..\\models\\Salamanca\\clustering\\kmeans_model.pkl",
   "scaler_path": "..\\models\\Salamanca\\clustering\\cluster_scaler.pkl",
   "pca_path": "..\\models\\Salamanca\\clustering\\pca_model.pkl"

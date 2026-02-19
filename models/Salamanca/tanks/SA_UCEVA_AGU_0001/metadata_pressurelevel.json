@@ -19,7 +19,9 @@
   "n_train": 9652,
   "n_test": 1073,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:39:29.123088",
+  "max_feature_correlation": 0.018790177086206346,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:15:03.564162",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\linearregression_pressurelevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_UCEVA_AGU_0001\\scaler_pressurelevel.pkl"
 }

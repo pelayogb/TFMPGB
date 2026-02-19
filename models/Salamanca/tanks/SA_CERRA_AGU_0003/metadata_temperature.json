@@ -19,7 +19,9 @@
   "n_train": 4830,
   "n_test": 537,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:32.475136",
+  "max_feature_correlation": 0.02647948111691308,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:32.586380",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_CERRA_AGU_0003\\gradientboosting_temperature.pkl",
   "scaler_path": null
 }

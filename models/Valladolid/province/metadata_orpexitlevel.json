@@ -19,7 +19,9 @@
   "n_train": 29431,
   "n_test": 3271,
   "use_scaling": true,
-  "trained_on": "2026-01-02T11:58:38.830504",
+  "max_feature_correlation": 0.013413967597218412,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:43:12.214510",
   "model_path": "..\\models\\Valladolid\\province\\linearregression_orpexitlevel.pkl",
   "scaler_path": "..\\models\\Valladolid\\province\\scaler_orpexitlevel.pkl"
 }

@@ -19,7 +19,9 @@
   "n_train": 6676,
   "n_test": 742,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:22.271985",
+  "max_feature_correlation": 0.013241899513532062,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:12.608399",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\linearregression_watertanklevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MILAN_AGU_0001\\scaler_watertanklevel.pkl"
 }

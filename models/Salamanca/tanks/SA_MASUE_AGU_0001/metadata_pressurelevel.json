@@ -19,7 +19,9 @@
   "n_train": 7023,
   "n_test": 781,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:10.706409",
+  "max_feature_correlation": 0.011578436174492293,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:03.628627",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0001\\gradientboosting_pressurelevel.pkl",
   "scaler_path": null
 }

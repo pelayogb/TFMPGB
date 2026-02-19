@@ -19,7 +19,9 @@
   "n_train": 27028,
   "n_test": 3004,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:20.276195",
+  "max_feature_correlation": 0.29645259030174387,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:15:42.216411",
   "model_path": "..\\models\\Soria\\tanks\\SO_BOROB_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

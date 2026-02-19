@@ -19,7 +19,9 @@
   "n_train": 2808,
   "n_test": 312,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:12:10.572767",
+  "max_feature_correlation": 0.015280552602446366,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:50:31.018322",
   "model_path": "..\\models\\Palencia\\tanks\\PA_CARCO_AGU_0002\\histgradientboosting_clinjector.pkl",
   "scaler_path": null
 }

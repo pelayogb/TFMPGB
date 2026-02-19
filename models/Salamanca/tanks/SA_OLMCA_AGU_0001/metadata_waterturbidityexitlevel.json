@@ -19,7 +19,9 @@
   "n_train": 9432,
   "n_test": 1048,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:28.370186",
+  "max_feature_correlation": 0.01680743156593125,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:17.527069",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_OLMCA_AGU_0001\\gradientboosting_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

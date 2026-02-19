@@ -19,7 +19,9 @@
   "n_train": 1321,
   "n_test": 147,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:34:33.503927",
+  "max_feature_correlation": 0.021724210348739722,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:08.074313",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\linearregression_temperature.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\scaler_temperature.pkl"
 }

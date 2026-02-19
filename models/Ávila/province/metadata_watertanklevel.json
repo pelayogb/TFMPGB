@@ -19,7 +19,9 @@
   "n_train": 609229,
   "n_test": 67693,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:58:58.802688",
+  "max_feature_correlation": 0.24608597553982273,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:43:36.316977",
   "model_path": "..\\models\\\u00c1vila\\province\\histgradientboosting_watertanklevel.pkl",
   "scaler_path": null
 }

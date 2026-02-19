@@ -19,7 +19,9 @@
   "n_train": 7353,
   "n_test": 818,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:42:02.007780",
+  "max_feature_correlation": 0.011547765853655443,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:17:08.694267",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_SERRA_AGU_0001\\randomforest_waterturbidityexitlevel.pkl",
   "scaler_path": null
 }

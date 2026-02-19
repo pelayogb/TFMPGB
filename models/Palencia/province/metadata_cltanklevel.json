@@ -19,7 +19,9 @@
   "n_train": 13166902,
   "n_test": 1462990,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:30:34.374475",
+  "max_feature_correlation": 0.05506007241283629,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:05:15.384479",
   "model_path": "..\\models\\Palencia\\province\\randomforest_cltanklevel.pkl",
   "scaler_path": null
 }

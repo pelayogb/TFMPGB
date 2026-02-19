@@ -19,7 +19,9 @@
   "n_train": 259123,
   "n_test": 28792,
   "use_scaling": false,
-  "trained_on": "2026-01-02T12:16:35.920914",
+  "max_feature_correlation": 0.21088492158826713,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:54:12.527002",
   "model_path": "..\\models\\Palencia\\tanks\\PA_FROMI_AGU_0001\\histgradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

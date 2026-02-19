@@ -19,7 +19,9 @@
   "n_train": 5570,
   "n_test": 619,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:25.033520",
+  "max_feature_correlation": 0.025546547580695658,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:15:00.271336",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_SOBRA_AGU_0001\\histgradientboosting_cltanklevel.pkl",
   "scaler_path": null
 }

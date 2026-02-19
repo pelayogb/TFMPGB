@@ -19,7 +19,9 @@
   "n_train": 5062,
   "n_test": 563,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:37.986915",
+  "max_feature_correlation": 0.019332939273385513,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:23.328583",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\histgradientboosting_pressurelevel.pkl",
   "scaler_path": null
 }

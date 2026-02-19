@@ -19,7 +19,9 @@
   "n_train": 4181,
   "n_test": 465,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:22.378961",
+  "max_feature_correlation": 0.013196247698735893,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:42.478286",
   "model_path": "..\\models\\Palencia\\tanks\\PA_VIERO_AGU_0001\\histgradientboosting_phexitlevel.pkl",
   "scaler_path": null
 }

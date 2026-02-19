@@ -19,7 +19,9 @@
   "n_train": 5062,
   "n_test": 563,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:39.502345",
+  "max_feature_correlation": 0.5169758351044804,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:14:24.429745",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_PENAX_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

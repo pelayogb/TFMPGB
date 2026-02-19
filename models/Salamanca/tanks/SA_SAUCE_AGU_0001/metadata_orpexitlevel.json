@@ -19,7 +19,9 @@
   "n_train": 9426,
   "n_test": 1048,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:19.540668",
+  "max_feature_correlation": 0.012566306294206173,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:55.590307",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_SAUCE_AGU_0001\\histgradientboosting_orpexitlevel.pkl",
   "scaler_path": null
 }

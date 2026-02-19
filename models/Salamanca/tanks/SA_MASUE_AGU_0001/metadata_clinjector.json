@@ -19,7 +19,9 @@
   "n_train": 7023,
   "n_test": 781,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:38:12.061691",
+  "max_feature_correlation": 0.028745193983638638,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:04.463996",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0001\\linearregression_clinjector.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0001\\scaler_clinjector.pkl"
 }

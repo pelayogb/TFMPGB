@@ -14,12 +14,14 @@
   "test_r2": -0.001512993663812967,
   "test_mae": 2.8277270659832054,
   "test_rmse": 3.3974000495518992,
-  "cv_mean_r2": -0.003368058683353059,
-  "cv_std_r2": 0.001883593572409543,
+  "cv_mean_r2": -0.0033680586833530145,
+  "cv_std_r2": 0.001883593572409552,
   "n_train": 7332,
   "n_test": 815,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:16.027480",
+  "max_feature_correlation": 0.010437128302255263,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:07.596745",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MASUE_AGU_0002\\randomforest_flowexitlevel.pkl",
   "scaler_path": null
 }

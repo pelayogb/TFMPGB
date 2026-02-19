@@ -19,7 +19,9 @@
   "n_train": 4662,
   "n_test": 519,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:40:05.308960",
+  "max_feature_correlation": 0.7048428230711999,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:15:29.027318",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ZARPU_AGU_0001\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

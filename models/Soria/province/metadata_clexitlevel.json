@@ -19,7 +19,9 @@
   "n_train": 308415,
   "n_test": 34269,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:57:30.311330",
+  "max_feature_correlation": 0.1279222149343565,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T17:42:20.716359",
   "model_path": "..\\models\\Soria\\province\\gradientboosting_clexitlevel.pkl",
   "scaler_path": null
 }

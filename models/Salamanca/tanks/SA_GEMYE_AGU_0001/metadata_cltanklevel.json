@@ -19,7 +19,9 @@
   "n_train": 8392,
   "n_test": 933,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:48.659500",
+  "max_feature_correlation": 0.019992109141072432,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:46.095002",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_GEMYE_AGU_0001\\randomforest_cltanklevel.pkl",
   "scaler_path": null
 }

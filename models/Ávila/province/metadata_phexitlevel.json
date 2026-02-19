@@ -15,11 +15,13 @@
   "test_mae": 0.05206678533858635,
   "test_rmse": 0.07847118133382537,
   "cv_mean_r2": 0.9483166164336907,
-  "cv_std_r2": 0.0004011286350106031,
+  "cv_std_r2": 0.0004011286350105962,
   "n_train": 609229,
   "n_test": 67693,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:59:39.633900",
+  "max_feature_correlation": 0.8139308827400098,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T17:45:01.267287",
   "model_path": "..\\models\\\u00c1vila\\province\\randomforest_phexitlevel.pkl",
   "scaler_path": null
 }

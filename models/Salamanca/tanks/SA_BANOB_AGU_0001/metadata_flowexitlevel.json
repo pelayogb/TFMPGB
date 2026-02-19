@@ -19,7 +19,9 @@
   "n_train": 5496,
   "n_test": 611,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:36:44.024304",
+  "max_feature_correlation": 0.019245437816034616,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:58.801089",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BANOB_AGU_0001\\gradientboosting_flowexitlevel.pkl",
   "scaler_path": null
 }

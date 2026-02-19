@@ -19,7 +19,9 @@
   "n_train": 7355,
   "n_test": 818,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:41:59.149615",
+  "max_feature_correlation": 0.015822871917577065,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:17:06.725299",
   "model_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0002\\linearregression_cltanklevel.pkl",
   "scaler_path": "..\\models\\Valladolid\\tanks\\VA_POZGA_AGU_0002\\scaler_cltanklevel.pkl"
 }

@@ -19,7 +19,9 @@
   "n_train": 6871,
   "n_test": 764,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:37.983803",
+  "max_feature_correlation": 0.012321626668190965,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:37.451846",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_ENCCO_AGU_0001\\histgradientboosting_flowexitlevel.pkl",
   "scaler_path": null
 }

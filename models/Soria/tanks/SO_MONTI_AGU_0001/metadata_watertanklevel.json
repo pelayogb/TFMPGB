@@ -15,11 +15,13 @@
   "test_mae": 1.6615065721503106,
   "test_rmse": 2.874736883866755,
   "cv_mean_r2": 0.3272433111285519,
-  "cv_std_r2": 0.009968675117790772,
+  "cv_std_r2": 0.009968675117790758,
   "n_train": 26257,
   "n_test": 2918,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:13.902317",
+  "max_feature_correlation": 0.3401278509671453,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:16:31.659450",
   "model_path": "..\\models\\Soria\\tanks\\SO_MONTI_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

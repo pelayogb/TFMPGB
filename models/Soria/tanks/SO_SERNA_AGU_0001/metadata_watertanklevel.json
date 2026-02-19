@@ -19,7 +19,9 @@
   "n_train": 19332,
   "n_test": 2149,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:41:36.793194",
+  "max_feature_correlation": 0.21329467245420053,
+  "n_significant_features": 1,
+  "trained_on": "2026-02-19T18:16:51.451555",
   "model_path": "..\\models\\Soria\\tanks\\SO_SERNA_AGU_0001\\randomforest_watertanklevel.pkl",
   "scaler_path": null
 }

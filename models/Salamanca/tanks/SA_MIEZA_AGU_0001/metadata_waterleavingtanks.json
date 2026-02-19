@@ -19,7 +19,9 @@
   "n_train": 6421,
   "n_test": 714,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:21.203243",
+  "max_feature_correlation": 0.8651023233944745,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:14:11.697859",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

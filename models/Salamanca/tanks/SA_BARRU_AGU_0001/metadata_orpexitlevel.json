@@ -19,7 +19,9 @@
   "n_train": 6764,
   "n_test": 752,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:36:53.686366",
+  "max_feature_correlation": 0.012278874132867077,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:13:03.161210",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BARRU_AGU_0001\\linearregression_orpexitlevel.pkl",
   "scaler_path": "..\\models\\Salamanca\\tanks\\SA_BARRU_AGU_0001\\scaler_orpexitlevel.pkl"
 }

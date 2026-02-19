@@ -19,7 +19,9 @@
   "n_train": 1321,
   "n_test": 147,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:34:32.921103",
+  "max_feature_correlation": 0.024318589455851608,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:07.595209",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\linearregression_phexitlevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\scaler_phexitlevel.pkl"
 }

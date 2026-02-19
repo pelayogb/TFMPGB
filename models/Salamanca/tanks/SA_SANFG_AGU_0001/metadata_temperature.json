@@ -19,7 +19,9 @@
   "n_train": 8300,
   "n_test": 923,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:08.269034",
+  "max_feature_correlation": 0.011861093777651521,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:46.552341",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_SANFG_AGU_0001\\randomforest_temperature.pkl",
   "scaler_path": null
 }

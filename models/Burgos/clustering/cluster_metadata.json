@@ -35,7 +35,7 @@
       ]
     }
   },
-  "trained_on": "2025-12-10T11:45:28.654980",
+  "trained_on": "2026-02-19T18:21:17.506703",
   "kmeans_path": "..\\models\\Burgos\\clustering\\kmeans_model.pkl",
   "scaler_path": "..\\models\\Burgos\\clustering\\cluster_scaler.pkl",
   "pca_path": "..\\models\\Burgos\\clustering\\pca_model.pkl"

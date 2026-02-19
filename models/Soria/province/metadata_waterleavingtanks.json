@@ -19,7 +19,9 @@
   "n_train": 308415,
   "n_test": 34269,
   "use_scaling": false,
-  "trained_on": "2026-01-02T11:58:32.208060",
+  "max_feature_correlation": 0.038663764005045516,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:43:09.559159",
   "model_path": "..\\models\\Soria\\province\\gradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 1321,
   "n_test": 147,
   "use_scaling": true,
-  "trained_on": "2025-12-10T11:34:32.376358",
+  "max_feature_correlation": 0.028119990401238998,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:12:07.119501",
   "model_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\linearregression_watertanklevel.pkl",
   "scaler_path": "..\\models\\Palencia\\tanks\\PA_SANMA_AGU_0001\\scaler_watertanklevel.pkl"
 }

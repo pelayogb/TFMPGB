@@ -12,14 +12,16 @@
   ],
   "n_features": 2,
   "test_r2": 0.847443101312165,
-  "test_mae": 2547.329355405297,
+  "test_mae": 2547.329355405296,
   "test_rmse": 7387.592468470458,
   "cv_mean_r2": 0.8280903920140137,
   "cv_std_r2": 0.019740020549960914,
   "n_train": 9341,
   "n_test": 1038,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:39:51.961901",
+  "max_feature_correlation": 0.6507140514539815,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:15:18.728099",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_VILLB_AGU_0002\\randomforest_waterleavingtanks.pkl",
   "scaler_path": null
 }

@@ -19,7 +19,9 @@
   "n_train": 7951,
   "n_test": 884,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:37:00.209158",
+  "max_feature_correlation": 0.5015042535738677,
+  "n_significant_features": 2,
+  "trained_on": "2026-02-19T18:13:08.989742",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_BERME_AGU_0001\\histgradientboosting_waterleavingtanks.pkl",
   "scaler_path": null
 }

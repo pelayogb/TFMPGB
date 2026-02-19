@@ -19,7 +19,9 @@
   "n_train": 6421,
   "n_test": 714,
   "use_scaling": false,
-  "trained_on": "2025-12-10T11:38:20.259649",
+  "max_feature_correlation": 0.016312348182146934,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T18:14:11.133135",
   "model_path": "..\\models\\Salamanca\\tanks\\SA_MIEZA_AGU_0001\\gradientboosting_flowexitlevel.pkl",
   "scaler_path": null
 }

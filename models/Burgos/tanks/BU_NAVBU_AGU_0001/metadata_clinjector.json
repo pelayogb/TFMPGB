@@ -19,7 +19,9 @@
   "n_train": 7909,
   "n_test": 879,
   "use_scaling": true,
-  "trained_on": "2026-01-02T12:02:04.109479",
+  "max_feature_correlation": 0.011355462324225992,
+  "n_significant_features": 0,
+  "trained_on": "2026-02-19T17:47:36.722835",
   "model_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\linearregression_clinjector.pkl",
   "scaler_path": "..\\models\\Burgos\\tanks\\BU_NAVBU_AGU_0001\\scaler_clinjector.pkl"
 }
